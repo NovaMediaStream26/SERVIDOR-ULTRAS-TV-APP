@@ -3,3 +3,71 @@
 # --- SECCIÓN: AGENDA ---
 #EXTINF:-1 group-title="AGENDA", AUSTRALIA VS BRASIL 4AM
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 group-title="AGENDA", MOLDAVIA VS ISLAS FEROE 10AM
+https://velive.lat:443/laura/12345678/476204.m3u8
+#EXTINF:-1 group-title="AGENDA", FINLANDIA VS BIELORRUSIA 10AM
+http://181.209.105.115:2525/play/espn2/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FINLANDIA VS BIELORRUSIA OPCION 2
+https://velive.lat:443/laura/12345678/476203.m3u8
+#EXTINF:-1 group-title="AGENDA", ESCOCIA VS SUIZA 12:45 PM
+https://velive.lat:443/laura/12345678/476215.m3u8
+#EXTINF:-1 group-title="AGENDA", ESLOVENIA VS MACEDONIA DEL NORTE 12:45 PM
+https://velive.lat:443/laura/12345678/476214.m3u8
+#EXTINF:-1 group-title="AGENDA", REPUBLICA CHECA VS INGLATERRA 12:45 PM
+http://181.209.105.115:2525/play/espn2/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REPUBLICA CHECA VS INGLATERRA OPCION 2
+https://velive.lat:443/laura/12345678/476213.m3u8
+#EXTINF:-1 group-title="AGENDA", ESLOVAQUIA VS KAZAJISTAN 12:45 PM
+https://velive.lat:443/laura/12345678/476218.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN MARINO VS ALBANIA 12:45 PM
+https://velive.lat:443/laura/12345678/476211.m3u8
+#EXTINF:-1 group-title="AGENDA", LUXEMBURGO VS ISLANDIA 12:45 PM
+https://velive.lat:443/laura/12345678/476217.m3u8
+#EXTINF:-1 group-title="AGENDA", BULGARIA VS ESTONIA 12:45 PM
+https://velive.lat:443/laura/12345678/476216.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS CROACIA 12:45 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS CROACIA OPCION 2
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS CROACIA OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57285.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPAÑA VS CROACIA OPCION 4
+https://velive.lat:443/laura/12345678/476212.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTIVO PEREIRA VS SANTA FE 14:30 PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PUERTO MONTT VS COLO COLO 14:30 PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MLB: RED SOX VS YANKEES 5PM
+http://181.209.105.115:2525/play/espn2/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CHILE 6PM
+https://velive.lat:443/laura/12345678/476249.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CHILE OPCION 2
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CHILE OPCION 3
+https://live83.videxhd.sbs/latamplay/espn4mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CHILE OPCION 4
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_vcid2=512116:b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CHILE OPCION 5
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NHL: RANGERS VS BRUINS 6PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU 7PM
+https://velive.lat:443/laura/12345678/1615.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 2
+http://rlatinop.com:8880/live/JhulVilla/cbQqwVXHT3KF/135430.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/52486.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 4
+http://190.121.140.222:8081/AZTECA-DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 5
+http://181.119.215.61:8000/play/a07o/index.m3u8?hls
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 6
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 7
+http://45.167.2.101:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 8 (VPN)
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS PERU OPCION 9
+https://live83.videxhd.sbs/latamplay/tudn_usa/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE MEDELLIN VS MILLONARIOS 19:05 PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
