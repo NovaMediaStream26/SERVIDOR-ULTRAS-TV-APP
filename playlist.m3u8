@@ -1,57 +1,9 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", LITUANIA VS ANDORRA 10AM
-http://181.119.177.253:8000/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="AGENDA", LITUANIA VS ANDORRA OPCION 2
-https://velive.lat:443/laura/12345678/476431.m3u8
-#EXTINF:-1 group-title="AGENDA", PARIS FC F VS ARSENAL F 10:45 AM
-https://velive.lat:443/laura/12345678/476434.m3u8
-#EXTINF:-1 group-title="AGENDA", HACKEN F VS JUVENTUS F 10:45 AM
-https://velive.lat:443/laura/12345678/476435.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA F VS BARCELONA F 10:45 AM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA F VS BARCELONA F OPCION 2
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57285.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA F VS BARCELONA F OPCION 3
-http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA F VS BARCELONA F OPCION 4
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
-#EXTINF:-1 group-title="AGENDA", LYONN F VS CHELSEA F 1PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", LYONN F VS CHELSEA F OPCION 2
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
-#EXTINF:-1 group-title="AGENDA", BENFICA F VS BAYER MUNICH 1PM
-https://velive.lat:443/laura/12345678/476442.m3u8
-#EXTINF:-1 group-title="AGENDA", CIENCIANO VS LOS CHANKAS 2PM
-http://190.108.83.69:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE BFC VS NACIONAL ASUNCION 2PM
-https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
-#EXTINF:-1 group-title="AGENDA", MLB: CHICAGO WHITE SOX VS HOUSTON ASTROS 3PM
-http://38.134.250.110:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTES CONCEPCION VS OHIGGINS 16:30 PM
-http://138.99.179.64:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CERRO PORTEÑO VS RUBIO ÑU 16:30 PM
-https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
-#EXTINF:-1 group-title="AGENDA", TORQUE VS PEÑAROL 5PM
-https://velive.lat:443/laura/12345678/476455.m3u8
-#EXTINF:-1 group-title="AGENDA", WNBA: ATLANTA DREAM VS WASHINGTON MYSTIC 5PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RED BULLS VS ST. LOUIS CITY 17:30 PM
-https://velive.lat:443/laura/12345678/476460.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BOLIVIA 6PM
-http://181.209.38.115:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BOLIVIA OPCION 2
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BOLIVIA OPCION 3
-https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BOLIVIA OPCION 4
-http://179.43.96.253:8000/play/a24w/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BOLIVIA OPCION 5
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57285.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BOLIVIA OPCION 6
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO NACIONAL VS JUNIOR 7PM
-http://181.78.0.107:8006/play/a08x/index.m3u8
-#EXTINF:-1 group-title="AGENDA", WNBA: GOLDEN STATE VALKYRIES VS DALLAS WING 7PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JAPON VS ECUADOR 04:10 AM
+http://177.234.218.66:8084/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JAPON VS ECUADOR OPCION 2
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JAPON VS ECUADOR OPCION 3
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_vcid2=512116:b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
