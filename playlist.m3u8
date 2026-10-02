@@ -1,91 +1,11 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", JAPON VS ECUADOR 04:10 AM
-http://177.234.218.66:8084/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", JAPON VS ECUADOR OPCION 2
-http://45.224.97.181:9999/Teleamazonas/index.m3u8
-#EXTINF:-1 group-title="AGENDA", JAPON VS ECUADOR OPCION 3
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_vcid2=512116:b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
-#EXTINF:-1 group-title="AGENDA", AZERBAIYAN VS LIECHTENSTEIN 10AM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", AZERBAIYAN VS LIECHTENSTEIN OPCION 2
-https://velive.lat:443/laura/12345678/477030.m3u8
-#EXTINF:-1 group-title="AGENDA", AUSTRIA VIENA F VS INTER MILAN F 10:45 AM
-http://38.134.250.110:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="AGENDA", AUSTRIA VIENA F VS INTER MILAN F OPCION 2
-http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
-#EXTINF:-1 group-title="AGENDA", AUSTRIA VIENA F VS INTER MILAN F OPCION 3
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
-#EXTINF:-1 group-title="AGENDA", AUSTRIA VIENA F VS INTER MILAN F OPCION 4
-https://velive.lat:443/laura/12345678/477033.m3u8
-#EXTINF:-1 group-title="AGENDA", KOGE KVINDER F VS SERVETTE F
-https://velive.lat:443/laura/12345678/477034.m3u8
-#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE RES VS BOCA JUNIOR RES 12PM
-http://zonacero.lat:8080/live/NOVA893567/UMCnCjDUBQCQ/273599.m3u8
-#EXTINF:-1 group-title="AGENDA", GALES VS NORUEGA 12:45 PM
-https://velive.lat:443/laura/12345678/477039.m3u8
-#EXTINF:-1 group-title="AGENDA", GRECIA VS PAISES BAJOS 12:45 PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GRECIA VS PAISES BAJOS OPCION 2
-https://velive.lat:443/laura/12345678/477040.m3u8
-#EXTINF:-1 group-title="AGENDA", ALEMANIA VS SERBIA 12:45 PM
-https://velive.lat:443/laura/12345678/477045.m3u8
-#EXTINF:-1 group-title="AGENDA", DINAMARCA VS PORTUGAL 12:45 PM
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 2 2AM
 http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DINAMARCA VS PORTUGAL OPCION 2
-https://velive.lat:443/laura/12345678/477044.m3u8
-#EXTINF:-1 group-title="AGENDA", ISRAEL VS KOSOVO 12:45 PM
-https://velive.lat:443/laura/12345678/477043.m3u8
-#EXTINF:-1 group-title="AGENDA", IRLANDA VS AUSTRIA 12:45 PM
-https://velive.lat:443/laura/12345678/477042.m3u8
-#EXTINF:-1 group-title="AGENDA", MALTA VS GIBRALTAR 12:45 PM
-https://velive.lat:443/laura/12345678/477041.m3u8
-#EXTINF:-1 group-title="AGENDA", PSG F VS LEUVEN F 1PM
-http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
-#EXTINF:-1 group-title="AGENDA", PSG F VS LEUVEN F OPCION 2
-https://velive.lat:443/laura/12345678/477047.m3u8
-#EXTINF:-1 group-title="AGENDA", MANCHESTER CITY F VS REAL MADRID F 1PM
-http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MANCHESTER CITY F VS REAL MADRID F OPCION 2
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
-#EXTINF:-1 group-title="AGENDA", MANCHESTER CITY F VS REAL MADRID F OPCION 3
-https://velive.lat:443/laura/12345678/477046.m3u8
-#EXTINF:-1 group-title="AGENDA", DOMINICA VS GUYANA 3PM
-https://velive.lat:443/laura/12345678/477048.m3u8
-#EXTINF:-1 group-title="AGENDA", OLIMPIA VS SPORTIVO LUQUEÑO 4PM
-https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
-#EXTINF:-1 group-title="AGENDA", CURAZAO VS TRINIDAD Y TOBAGO 4PM
-https://velive.lat:443/laura/12345678/477050.m3u8
-#EXTINF:-1 group-title="AGENDA", ISLAS CAIMAN VS PUERTO RICO 6PM
-https://velive.lat:443/laura/12345678/477074.m3u8
-#EXTINF:-1 group-title="AGENDA", REPULICA DOMINICANA VS HAITI 6PM
-https://velive.lat:443/laura/12345678/477075.m3u8
-#EXTINF:-1 group-title="AGENDA", MLB: BOSTON RED SOX VS NEW YORK YANKEES 6PM
-http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NFL: PITTSBURGH STEELERS VS CLEVELAND BROWNS 6PM
-http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PLATENSE VS ESTUDIANTES 18:15 PM
-http://181.209.38.115:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS ONCE CALDAS 7PM
-http://152.231.29.139:8000/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="AGENDA", SEATTLE SOUNDERS VS SPORTING KANSAS CITY 19:30 PM
-https://velive.lat:443/laura/12345678/477099.m3u8
-#EXTINF:-1 group-title="AGENDA", NICARAGAUA VS COSTA RICA 8PM
-http://186.33.61.182:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NICARAGUA VS COSTA RICA OPCION 2
-https://velive.lat:443/laura/12345678/477101.m3u8
-#EXTINF:-1 group-title="AGENDA", CRUZ AZUL VS AMERICA 20:30 PM
-http://179.60.224.196:8000/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", cRUZ AZUL VS AMERICA OPCION 2
-http://200.39.57.254:8008/play/a003/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MOTO GP: GP JAPON 22:10 PM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/70905.m3u8
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 1 22:30 PM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 1 OPCION 2
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA OPCION 2
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57485.m3u8
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 1 OPCION 3
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 2 OPCION 3
 http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 1 OPCION 4
-https://velive.lat:443/laura/12345678/477114.m3u8
+#EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS VENEZUELA 5AM
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
