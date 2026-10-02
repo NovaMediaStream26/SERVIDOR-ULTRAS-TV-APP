@@ -9,3 +9,77 @@ http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57485.m3u8
 http://181.232.188.21:8282/play/a046/index.m3u8
 #EXTINF:-1 group-title="AGENDA", COREA DEL SUR VS VENEZUELA 5AM
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", KAZAJISTAN VS MOLDAVIA 8AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", KAZAJISTAN VS MOLDVIA OPCION 2
+https://velive.lat:443/laura/12345678/477863.m3u8
+#EXTINF:-1 group-title="AGENDA", CHIPRE VS ARMENIA 10AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CHIPRE VS ARMENIA OPCION 2
+https://velive.lat:443/laura/12345678/477866.m3u8
+#EXTINF:-1 group-title="AGENDA", LETONIA VS MONTENEGRO 10AM
+https://velive.lat:443/laura/12345678/477867.m3u8
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 3 10:30 AM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 3 OPCION 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57485.m3u8
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN PRACTICA 3 OPCION 3
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ELDENSE VS REAL OVIEDO 12:30 PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", ISLAS FEROE VS ESLOVAQUIA 12:45
+https://velive.lat:443/laura/12345678/477882.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS ITALIA 12:45 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS TALIA OPCION 2
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", FRANCIA VS ITALIA OPCION 3
+https://velive.lat:443/laura/12345678/477881.m3u8
+#EXTINF:-1 group-title="AGENDA", BEKGICA VS TURQUIA 12:45 PM
+https://velive.lat:443/laura/12345678/477880.m3u8
+#EXTINF:-1 group-title="AGENDA", UCRANIA VS IRLANDA DEL NORTE 12:45 PM
+https://velive.lat:443/laura/12345678/477879.m3u8
+#EXTINF:-1 group-title="AGENDA", POLONIA VS RUMANIA 12:45 PM
+https://velive.lat:443/laura/12345678/477878.m3u8
+#EXTINF:-1 group-title="AGENDA", HUNGRIA VS GEORGIA 12:45 PM
+https://velive.lat:443/laura/12345678/477877.m3u8
+#EXTINF:-1 group-title="AGENDA", BOSNIA HERSEGOVINA VS SUECIA 12:45 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BOSNIA HERSEGOVINA VS SUECIA OPCION 2
+https://velive.lat:443/laura/12345678/477876.m3u8
+#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE VS INSTITUTO 16:15 PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SAO PAULO VS SANTOS 5PM
+https://velive.lat:443/laura/12345678/466528.m3u8
+#EXTINF:-1 group-title="AGENDA", UNIVERSIDAD CONCEPCION VS HUACHIPATO 5PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY 6PM
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 2
+http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 3
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 4
+https://d3xpfoln9sj56.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 5
+https://velive.lat:443/laura/12345678/1614.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 6
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w369549606.m3u8?k=da6bb14033c0c1b55b05ffe786dc6e7ea1d0ae2e94e54de4a3a45773d84c14ca&exp=1790951602
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 7
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 8
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/58115.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PARAGUAY OPCION 9
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5630.m3u8
+#EXTINF:-1 group-title="AGENDA", BOCA JUNIORS VS UNION 18:30 PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BOCA JUNIORS VS UNION OPCION 2
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BOCA JUNIORS VS UNION OPCION 3
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE RIVADAVIA VS GIMNASIA LP
+http://zonacero.lat:8080/live/NOVA893567/UMCnCjDUBQCQ/273599.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTIVO CALI VS ALIANZA 18:45 PM
+http://152.231.29.139:8000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CORRECAMINOS VS CRUZ AZUL HIDALGO 7PM
+http://186.33.61.182:8000/play/a051/index.m3u8
