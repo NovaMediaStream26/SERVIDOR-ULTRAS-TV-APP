@@ -13,3 +13,83 @@ http://38.134.250.110:8000/play/a00r/index.m3u8
 https://velive.lat:443/laura/12345678/316072.m3u8
 #EXTINF:-1 group-title="AGENDA", NFL: WASHINGTON COMMANDERS VS INDIANAPOLIS COLTS 07:30 AM
 http://38.134.250.110:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="AGENDA", KOSOVO VS AUSTRIA 10AM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", KOSOVO VS AUSTRIA OPCION 2
+https://velive.lat:443/laura/12345678/478240.m3u8
+#EXTINF:-1 group-title="AGENDA", MALTA VS ANDORRA 10AM
+https://velive.lat:443/laura/12345678/478241.m3u8
+#EXTINF:-1 group-title="AGENDA", BOSTON RIVER VS JUVENTUD 10AM
+https://velive.lat:443/laura/12345678/316072.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: PHILADELPHIA EAGLES VS LOS ANGELES RAM 11AM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: BUFFALO BILLS VS NEW ENGLAND PATRIOTS 11AM
+https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", HURACAN VS ALDOSIVI 11:45 AM
+http://zonacero.lat:8080/live/NOVA893567/UMCnCjDUBQCQ/273599.m3u8
+#EXTINF:-1 group-title="AGENDA", OHIGGINS VS DEPORTES CONCEPCION 12:30 PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", IRLANDA VS ISRAEL 12:45 PM
+https://velive.lat:443/laura/12345678/478266.m3u8
+#EXTINF:-1 group-title="AGENDA", GRECIA VS ALEMANIA 12:45 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", GRECIA VS ALEMANIA OPCION 2
+https://velive.lat:443/laura/12345678/478267.m3u8
+#EXTINF:-1 group-title="AGENDA", PAISES BAJOS VS SERBIA 12:45 PM
+https://velive.lat:443/laura/12345678/478268.m3u8
+#EXTINF:-1 group-title="AGENDA", PORTUGAL VS NORUEGA 12:45 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PORTUGAL VS NORUEGA OPCION 2
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", PORTUGAL VS NORUEGA OPCION 3
+https://velive.lat:443/laura/12345678/478269.m3u8
+#EXTINF:-1 group-title="AGENDA", GALES VS DINAMARCA 12:45 PM
+https://velive.lat:443/laura/12345678/478270.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTIVO PASTO VS FORTALEZA 1PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CERRO VS WANDERERS 1PM
+https://velive.lat:443/laura/12345678/316072.m3u8
+#EXTINF:-1 group-title="AGENDA", TALLERES VS BELGRANO 2PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TALLERES VS BELGRANO OPCION 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", TALLERES VS BELGRANO OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5630.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: SEATTLE SEAHAWKS VS LOS ANGELES CHARGERS 2PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: SAN FRANCIASCO 49ERS VS DENVER BRONCOS 2PM
+https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", GUADALAJARA F VS JUAREZ F 3PM
+https://velive.lat:443/laura/12345678/466667.m3u8
+#EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS ONCE CALDAS 15:05 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CUCUTA DEPORTIVO VS DEPORTIVO PEREIRA 15:05 PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PUERTO RICO VS ISLAS CAIMAN 4PM
+https://velive.lat:443/laura/12345678/478297.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINOS JUNIORS VS TIGRE 16:15 PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING VS PEÑAROL 16:30 PM
+https://velive.lat:443/laura/12345678/316072.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: JAZZ VS NUGGETS 5PM
+https://velive.lat:443/laura/12345678/478306.m3u8
+#EXTINF:-1 group-title="AGENDA", PACHUCA F VS TOLUCA F 17:06 PM
+https://velive.lat:443/laura/12345678/466667.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO BUCARAMANGA VS JUNIOR 17:10 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COSTA RICA VS HAITI 6PM
+https://d3xpfoln9sj56.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 group-title="AGENDA", COSTA RICA VS HAITI OPCION 2
+https://live83.videxhd.sbs/latamplay/tudn_usa/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", NFL: CAROLINA PANTHERS VS DETROIT LIONS 6PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTUDIANTES RIO CUARTO VS RACING CLUB 18:30 PM
+https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", GUADALAJARA VS AMERICA 7PM
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LLANEROS VS AMERICA CALI 19:15 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NICARAGUA VS REPUBLICA DOMINICANA 8PM
+https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NICARAGUA VS REPUBLICA DOMINICANA OPCION 2
+https://velive.lat:443/laura/12345678/478321.m3u8
