@@ -1,105 +1,15 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN CLASIFICACION 2AM
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN CARRERA 1AM
 http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN CLASIFICACION OPCION 2
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN CARRERA OPCION 2
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57485.m3u8
-#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN CLASIFICACION OPCION 3
+#EXTINF:-1 group-title="AGENDA", F1: GP BAHREIN CARRERA OPCION 3
 http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ALBACETE VS EIBAR 6AM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
-#EXTINF:-1 group-title="AGENDA", FINLANDIA VS ALBANIA 7AM
+#EXTINF:-1 group-title="AGENDA", AZERBAIYAN VS LITUANIA 7AM
 http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", LIVERPOOL VS PROGRESO 8AM
+#EXTINF:-1 group-title="AGENDA", DANUBIO VS CERRO LARGO 7AM
 https://velive.lat:443/laura/12345678/316072.m3u8
-#EXTINF:-1 group-title="AGENDA", ALMERIA VS BURGOS 08:15 AM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
-#EXTINF:-1 group-title="AGENDA", ISLANDIA VS BULGARIA 10AM
-https://velive.lat:443/laura/12345678/477985.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTONIA VS LUXEMBURGO 10AM
-https://velive.lat:443/laura/12345678/477984.m3u8
-#EXTINF:-1 group-title="AGENDA", BIELORRUSIA VS SAN MARINO 10AM
-https://velive.lat:443/laura/12345678/477982.m3u8
-#EXTINF:-1 group-title="AGENDA", CROACIA VS INGLATERRA 10AM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CROACIA VS INGLATERRA OPCION 2
-https://velive.lat:443/laura/12345678/477983.m3u8
-#EXTINF:-1 group-title="AGENDA", CADIZ VS LEGANES 10:30 AM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
-#EXTINF:-1 group-title="AGENDA", SABADELL VS FC ANDORRA 10:30 AM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25953.m3u8
-#EXTINF:-1 group-title="AGENDA", DEFENSA Y JUSTICIA VS SAN LORENZO 11:45 AM
-http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CANADA VS PERU 12PM
-http://199.188.103.176:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ALBION VS DEFENSOR SPORTING 12PM
-https://velive.lat:443/laura/12345678/316072.m3u8
-#EXTINF:-1 group-title="AGENDA", MACEDONIA DEL NORTE VS ESCOCIA 12:45 PM
-https://velive.lat:443/laura/12345678/478015.m3u8
-#EXTINF:-1 group-title="AGENDA", SUIZA VS ESLOVENIA 12:45 PM
-https://velive.lat:443/laura/12345678/478017.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS REPUBLICA CHECA 12:45 PM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS REPUBLICA CHECA OPCION 2
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 group-title="AGENDA", ESPAÑA VS REPUBLICA CHECA OPCION 3
-https://velive.lat:443/laura/12345678/478016.m3u8
-#EXTINF:-1 group-title="AGENDA", AGUILAS DORADAS VS JAGUARES 1PM
-http://138.94.3.106:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NEWELLS VS LANUS 2PM
-http://zonacero.lat:8080/live/NOVA893567/UMCnCjDUBQCQ/273599.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO TUCUMAN VS BARRACAS CENTRAL 2PM
-http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="AGENDA", UFC: PELEAS PRELIMINARES 2PM
-https://velive.lat:443/laura/12345678/478037.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO MALDONADO VS CENTRAL ESPAÑOL 3PM
-https://velive.lat:443/laura/12345678/316072.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTES TOLIMA VS BOYACA CHICO 15:05 PM
-http://138.94.3.106:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO MINEIRO VS RB BRAGANTINO 15:30 PM
-https://velive.lat:443/laura/12345678/478048.m3u8
-#EXTINF:-1 group-title="AGENDA", MLB: NEW YORK YANKEES VS TAMPA BAY RAYS 16:30 PM
+#EXTINF:-1 group-title="AGENDA", NFL: WASHINGTON COMMANDERS VS INDIANAPOLIS COLTS 07:30 AM
 http://38.134.250.110:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: TORONTO RAPTORS VS MIAMI HEAT 5PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: TORONTO RAPTORS VS MIAMI HEAT OPCION 2
-https://velive.lat:443/laura/12345678/478065.m3u8
-#EXTINF:-1 group-title="AGENDA", BARRANQUILLA VS MILLONARIOS 17:10 PM
-http://138.94.3.106:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BURKINA FASO 6PM
-http://181.209.38.115:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BURKINA FASO OPCION 2
-http://200.115.120.1:8000/play/ca016/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BURKINA FASO OPCION 3
-http://186.33.0.57:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BURKINA FASO OPCION 4
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
-#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BURKINA FASO OPCION 5
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57285.m3u8
-#EXTINF:-1 group-title="AGENDA", UFC: PELEAS ESTELARES 6PM
-https://velive.lat:443/laura/12345678/478037.m3u8
-#EXTINF:-1 group-title="AGENDA", MONTERREY VS TOLUCA 18:10 PM
-http://179.60.224.196:8000/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MOTO GP: GP JAPON CARRERA 19:30 PM
-http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MOTO GP: GP JAPON CARRERA OPCION 2
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/70905.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO 8PM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 2
-https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 3
-https://live81.videxhd.sbs/latamplay/azteca7/index.m3u8?api=1234
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 4
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 5
-http://45.228.234.62:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 6
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 7
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_web_telemundodeportesahora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_vcid2=512116:b36e307c-e835-41d4-a9e0-7056ccf64082&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4281&ads.xumo_contentName=TelemundoDeportesAhora&ads.xumo_providerId=4281&ads.xumo_providerName=TelemundoDeportesAhora&ads.channelId=99951459&ads._fw_ifa_type=
-#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS MEXICO OPCION 8
-http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BOX: JOSE RUSSELL VS RENE CALIXTO 8PM
-http://38.134.250.110:8000/play/a00q/index.m3u8
