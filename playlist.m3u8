@@ -1,79 +1,99 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", CHIPRE VS LETONIA 10AM
+#EXTINF:-1 group-title="AGENDA", INDIA VS URUGUAY 8AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", INDIA VS URUGUAY OPCION 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5630.m3u8
+#EXTINF:-1 group-title="AGENDA", KAZAJISTAN VS ISLAS FEROE 8AM
 http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CHIPRE VS LETONIA OPCION 2
-https://velive.lat:443/laura/12345678/478900.m3u8
-#EXTINF:-1 group-title="AGENDA", CORDOBA VS TENERIFE 12:30 PM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
-#EXTINF:-1 group-title="AGENDA", MONTENEGRO VS ARMENIA 12:45 PM
-https://velive.lat:443/laura/12345678/478907.m3u8
-#EXTINF:-1 group-title="AGENDA", ITALIA VS TURQUIA 12:45 PM
-https://velive.lat:443/laura/12345678/478906.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS BELGICA 12:45 PM
+#EXTINF:-1 group-title="AGENDA", KAZAJISTAN VS ISLAS FEROE OPCION 2
+https://velive.lat:443/laura/12345678/478995.m3u8
+#EXTINF:-1 group-title="AGENDA", JORDANIA VS VENEZUELA 11AM
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 group-title="AGENDA", LUXEMBURGO VS BULGARIA 12:45 PM
+https://velive.lat:443/laura/12345678/479001.m3u8
+#EXTINF:-1 group-title="AGENDA", SUIZA VS MACEDONIA DEL NORTE 12:45 PM
+https://velive.lat:443/laura/12345678/479007.m3u8
+#EXTINF:-1 group-title="AGENDA", ESCOCIA VS ESLOVENIA 12:45 PM
+https://velive.lat:443/laura/12345678/479008.m3u8
+#EXTINF:-1 group-title="AGENDA", INGLATERRA VS REPUBLICA CHECA 12:45 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", INGLATERRA VS REPUBLICA CHECA OPCION 2
+https://velive.lat:443/laura/12345678/479005.m3u8
+#EXTINF:-1 group-title="AGENDA", ALBANIA VS SAN MARINO 12:45 PM
+https://velive.lat:443/laura/12345678/479004.m3u8
+#EXTINF:-1 group-title="AGENDA", BIELORRUSIA VS FINLANDIA 12:45 PM
+https://velive.lat:443/laura/12345678/479003.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTONIA VS ISLANDIA 12:45 PM
+https://velive.lat:443/laura/12345678/479002.m3u8
+#EXTINF:-1 group-title="AGENDA", MOLDAVIA VS ESLOVAQUIA 12:45 PM
+https://velive.lat:443/laura/12345678/479000.m3u8
+#EXTINF:-1 group-title="AGENDA", CROACIA VS ESPAÑA 12:45 PM
 http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", FRANCIA VS BELGICA OPCION 2
-https://velive.lat:443/laura/12345678/478905.m3u8
-#EXTINF:-1 group-title="AGENDA", UCRANIA VS HUNGRIA 12:45 PM
-https://velive.lat:443/laura/12345678/478904.m3u8
-#EXTINF:-1 group-title="AGENDA", RUMANIA VS SUECIA 12:45 PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", RUMANIA VS SUECIA OPCION 2
-https://velive.lat:443/laura/12345678/478903.m3u8
-#EXTINF:-1 group-title="AGENDA", IRLANDA DEL NORTE VS GEORGIA 12:45 PM
-https://velive.lat:443/laura/12345678/478902.m3u8
-#EXTINF:-1 group-title="AGENDA", BOSNIA HERSEGOVINA VS POLONIA 12:45 PM
-https://velive.lat:443/laura/12345678/478901.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO RIESTRA VS CENTRAL CORDOBA 13:45 PM
-http://zonacero.lat:8080/live/NOVA893567/UMCnCjDUBQCQ/273599.m3u8
-#EXTINF:-1 group-title="AGENDA", SPORTIVO TRINIDENSE VS SPORTIVO LUQUEÑO 2PM
+#EXTINF:-1 group-title="AGENDA", CROACIA VS ESPAÑA OPCION 2
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", CROACIA VS ESPAÑA OPCION 3
+https://velive.lat:443/laura/12345678/479006.m3u8
+#EXTINF:-1 group-title="AGENDA", ALIANZA ATLETICO VS SPORT BOYS 2PM
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SPORTIVO AMELIANO VS RUBIO ÑU 2PM
 https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
-#EXTINF:-1 group-title="AGENDA", CUBA VS SAINT KITTS Y NEVIS 3PM
-https://velive.lat:443/laura/12345678/478909.m3u8
-#EXTINF:-1 group-title="AGENDA", MLB: CHICAGO WHITE SOX VS CLEVELAND GUARDIANS 3PM
+#EXTINF:-1 group-title="AGENDA", OLIMPIA VS NACIONAL ASUNCION 16:15 PM
+https://live881.videxhd.sbs/latamplay/tigo1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN 5PM
+http://181.209.38.115:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 2
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 3
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 4
+http://186.33.0.57:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS BENIN OPCION 5
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: BROOKLYN NETS VS CHARLOTTE HORNET 5PM
+https://velive.lat:443/laura/12345678/478990.m3u8
+#EXTINF:-1 group-title="AGENDA", COLO COLO VS PUERTO MONTT 17:30 PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU 17:45 PM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU OPCION 2
+http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU OPCION 3
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU OPCION 4
+https://d3xpfoln9sj56.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU OPCION 5
+https://velive.lat:443/laura/12345678/1614.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU OPCION 6
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/58115.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS PERU OPCION 7
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5630.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CANADA 6PM
+http://186.33.61.182:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS CANADA OPCION 2
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: NEW ORLEANS PELICANS VS OKLAHOMA CITY THUNDER 6PM
+https://velive.lat:443/laura/12345678/479033.m3u8
+#EXTINF:-1 group-title="AGENDA", NHL: NEW YORK RANGERS VS NEW YORK ISLANDER 6PM
 http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AGENDA", VELEZ SARSFIELD VS PLATENSE 4PM
-http://zonacero.lat:8080/live/NOVA893567/UMCnCjDUBQCQ/273599.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS GIMNASIA MENDOZA 4PM
-http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS GIMNASIA MENDOZA OPCION 5
-http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MARTINICA VS EL SALVADOR 4PM
-http://190.61.101.11:7050/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MARTINICA VS EL SALVADOR OPCION 2
-http://186.33.61.182:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MARTINICA VS EL SALVADOR OPCION 3
-https://velive.lat:443/laura/12345678/478910.m3u8
-#EXTINF:-1 group-title="AGENDA", NACIONAL VS TORQUE 5PM
-https://velive.lat:443/laura/12345678/316072.m3u8
-#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE MEDELLIN VS SANTA FE 6PM
-http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GUATEMALA VS SURINAM 6PM
-http://190.61.101.11:7050/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GUATEMALA VS SURINAM OPCION 2
-http://186.33.61.182:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GUATEMALA VS SURINAM OPCION 3
-https://velive.lat:443/laura/12345678/478911.m3u8
-#EXTINF:-1 group-title="AGENDA", MLB: NEW YORK YANKEES VS TAMPA BAY RAYS 6PM
-http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: MEMPHIS GRIZZLIES VS ATLANTA HAWKS 6PM
-https://velive.lat:443/laura/12345678/478928.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: PHOENIX SUNS VS DETROIT PISTONS 6PM
-https://velive.lat:443/laura/12345678/478929.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: NEW YORK KNICKS VS PHILADELPHIA 76ERS 6PM
-https://velive.lat:443/laura/12345678/478930.m3u8
-#EXTINF:-1 group-title="AGENDA", NFL: NEW ORLEANS SAINTS VS ATLANTA FALCONS 6PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BANFIELD VS ROSARIO CENTRAL 18:15 PM
-http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: MINNESOTA TIMBERWOLVES VS MILWUAKEE BUCKS 7PM
-https://velive.lat:443/laura/12345678/478931.m3u8
-#EXTINF:-1 group-title="AGENDA", HONDURAS VS JAMAICA 8PM
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-#EXTINF:-1 group-title="AGENDA", HONDURAS VS JAMAICA OPCION 2
+#EXTINF:-1 group-title="AGENDA", CHICAGO FIRE VS VANCOUVER WHITECAPS 18:30 PM
+https://velive.lat:443/laura/12345678/479037.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: DENVER NUGGETS VS UTAH JAZZ 7PM
+https://velive.lat:443/laura/12345678/479038.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: LOS ANGELES LAKERS VS GOLDEN STATE WARRIORS 8PM
+https://velive.lat:443/laura/12345678/479043.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE 20:30 PM
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE OPCION 2
+https://velive.lat:443/laura/12345678/1614.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE OPCION 3
+https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE OPCION 4
+https://live81.videxhd.sbs/latamplay/azteca7/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE OPCION 5
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE OPCION 6
 http://179.60.224.196:8000/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", HONDURAS VS JAMAICA OPCION 3
-https://velive.lat:443/laura/12345678/478914.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: LOS ANGELES LAKERS VS SACRAMENTO KINGS 9PM
-https://velive.lat:443/laura/12345678/478932.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS CHILE OPCION 7
+http://45.167.2.101:8000/play/a0la/index.m3u8
