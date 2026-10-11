@@ -1,11 +1,187 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", BARCELONA VS GETAFE 10:30 AM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BARCELONA VS GETAFE OPCION 2
+#EXTINF:-1 group-title="AGENDA", TENIS: ATP M1000 SHANGHAI RONDA 3 4AM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HERTA BERLIN VS GREUTHER FURTH 05:30 AM
+http://181.232.188.21:8282/play/a04b/index.m3u8
+#EXTINF:-1 group-title="AGENDA", F1: GP SINGAPUR CARRERA 6AM
+https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", ELCHE VS CELTA VIGO 6AM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ELCHE VS CELTA VIGO OPCION 2
+https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", ELCHE VS CELTA VIGO OPCION 3
 http://181.119.177.253:8000/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BARCELONA VS GETAFE OPCIÓN 3
+#EXTINF:-1 group-title="AGENDA", ELCHE VS CELTA VIGO OPCION 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
+#EXTINF:-1 group-title="AGENDA", FC ANDORRA VS CASTELLON 6AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", LAZIO VS MONZA 7AM
+http://186.33.61.182:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LECCE VS BOLOGNA 7AM
+http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
+#EXTINF:-1 group-title="AGENDA", NICE VS STRASBURGO 7AM
+https://live-manifest.production-public.tubi.io/live/06619df8-2e97-43e7-8831-ff56c58a0260/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", HULL CITY VS EVERTON 7AM
+http://45.163.139.42:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HULL CITY VS EVERTON OPCION 2
+http://186.33.0.57:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HULL CITY VS EVERTON OPCION 3
+http://45.167.2.101:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", HULL CITY VS EVERTON OPCION 4
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", CRYSTAL PALACE VS NOTTINGHAM 7AM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CRYSTAL PALACE VS NOTTINGHAM OPCION 2
+http://186.33.61.182:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CRYSTAL PALACE VS NOTTINGHAM OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5590.m3u8
+#EXTINF:-1 group-title="AGENDA", CRYSTAL PALACE VS NOTTINGHAM OPCION 4
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: JAGUARS VS EAGLES 07:15 AM
+http://38.134.250.110:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="AGENDA", KOLN VS BORUSSIA MONCHENGLADBACH 07:30 AM
+https://live-manifest.production-public.tubi.io/live/06619df8-2e97-43e7-8831-ff56c58a0260/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", JUVENTUD VS RACING MONTEVIDEO 8AM
+http://weibplus.is/live/raul_gutierrez/Guti2022R/1331602.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL SOCIEDAD VS DEPORTIVO LA CORUÑA 08:15 AM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL SOCIEDAD VS DEPORTIVO LA CORUÑA OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL SOCIEDAD VS DEPORTIVO LA CORUÑA OPCION 3
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25125.m3u8
-#EXTINF:-1 group-title="AGENDA", BARCELONA VS GETAFE OPCION 4
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
+#EXTINF:-1 group-title="AGENDA", ALMERIA VS LEGANES 08:15 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", RENNES VS AUXERRE 09:15 AM
+https://live-manifest.production-public.tubi.io/live/06619df8-2e97-43e7-8831-ff56c58a0260/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", LIVERPOOL VS MANCHESTER CITY 09:30 AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LIVERPOOL VS MANCHESTER CITY OPCION 2
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", LIVERPOOL VS MANCHESTER CITY OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", LIVERPOOL VS MANCHESTER CITY OPCION 4
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FRIBURGO VS SCHALKE 04 09:30 AM
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/14879.m3u8
+#EXTINF:-1 group-title="AGENDA", EVERTON VS DEPORTES LA SERENA 09:30 AM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SASSUOLO VS MILAN 10AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SASSUOLO VS MILAN OPCION 2
+http://186.33.61.182:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BESIKTAS VS KOCAELISPOR 10AM
+http://181.232.188.21:8282/play/a04b/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL BETIS VS OSASUNA 10:30 AM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL BETIS VS OSASUNA OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL BTIS VS OSASUNA OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL BETIS VS OSASUNA OPCION 4
+https://player.42web.io/live3/espndeportes.m3u8
+#EXTINF:-1 group-title="AGENDA", MALLORCA VS LAS PALMAS 10:30 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", SUCHITEPEQUEZ VS MIXCO 10:30 AM
+http://181.78.106.127:5000/play/ca022/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BENFICA VS VITORIA GUIMARAES 11AM
+https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", BENFICA VS VITORIA GUIMARAES OPCION 2
+http://45.228.234.62:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: PACKERS VS BEARS 11AM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: SAINTS VS VIKINGS 11AM
+https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN LORENZO VS DEPORTIVO RIESTRA 11:45 AM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CAJAMARCA VS SPORTING CRISTAL 12PM
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CERRO LARGO VS ALBION 12PM
+http://weibplus.is/live/raul_gutierrez/Guti2022R/1331602.m3u8
+#EXTINF:-1 group-title="AGENDA", COQUIMBO UNIDO VS COLO COLO 12PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CAGLIARI VS JUVENTUS 12:45 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CAGLIARI VS JUVENTUS OPCION 2
+http://186.33.61.182:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CAGLIARI VS JUVENTUS OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5640.m3u8
+#EXTINF:-1 group-title="AGENDA", CAGLIARI VS JUVENTUS OPCION 4
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO MINEIRO VS SANTOS 1PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/58115.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS VALENCIA 1PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS VALENCIA OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS VALENCIA OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25125.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS VALENCIA OPCION 4
+https://player.42web.io/live3/espndeportes.m3u8
+#EXTINF:-1 group-title="AGENDA", CADIZ VS SPORTING GIJON 1PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", SANTA FE VS FORTALEZA 1PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PLATENSE VS ARGENTINOS JUNIORS 2PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ROSARIO CENTRAL VS INDEPENDIENTE RIVADAVIA 2PM
+http://181.209.38.115:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RUBIO ÑU VS OLIMPIA 2PM
+https://player.42web.io/live3/tigopy.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: SEAHAWKS VS 49ERS 2PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: CHARGERS VS BRONCOS 2PM
+https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", SPORT BOYS VS ALIANZA ATLETICO 14:30 PM
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="AGENDA", GREMIO VS INTERNACIONAL 14:30 PM
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1 group-title="AGENDA", PALMEIRAS VS CORINTHIANS 14:30 PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTES CONCEPCION VS UNION LA CALERA 14:30 PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN PEDRO VS COMUNICACIONES 3PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTRELLA ROJA VS REAL ESPAÑA 3PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", JAGUARES VS DEPORTES TOLIMA 15:05 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CENTRAL ESPAÑOL VS NACIONAL 15:30 PM
+http://weibplus.is/live/raul_gutierrez/Guti2022R/1331602.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING CLUB VS BELGRANO 16:15 PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LIBERTAD VS GUARANI 16:20 PM
+https://player.42web.io/live3/tigopy.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: CAVALIERS VS MAGIC 16:30 PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO SAN LUIS VS SANTOS 5PM
+http://186.33.61.182:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTES LIMACHE VS PALESTINO 5PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MUNICIPAL VS MARQUENSE 5PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESCORPIONES VS SAPRISSA 5PM
+http://45.228.234.62:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BOYACA CHICO VS CUCUTA DEPORTIVO 17:10 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PACHUCA VS NECAXA 17:10 PM
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", OLANCHO VS ATLETICO INDEPENDIENTE 17:15 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", CUSCO VS ALIANZA LIMA 17:30 PM
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NFL: FALCONS VS RAVENS 6PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TALLERES VS INDEPENDIENTE 18:30 PM
+http://181.209.38.115:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: NUGGETS VS BULLS 7PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ANTIGUA GFC VS COBAN IMPERIAL 19:10 PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", AMERICA CALI VS INDEPENDIENTE MEDELLIN 19:15 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PUMAS UNAM VS CRUZ AZUL 19:15 PM
+https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", PUMAS UNAM VS CRUZ AZUL OPCION 2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
