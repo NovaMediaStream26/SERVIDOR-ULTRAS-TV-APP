@@ -5,3 +5,61 @@
 http://38.134.250.110:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="AGENDA", REAL VALLADOLID VS ALBACETE 6AM
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", PAKHTAKOR VS AL QADISIYA 07:45 AM
+https://velive.lat:443/laura/12345678/480116.m3u8
+#EXTINF:-1 group-title="AGENDA", BURGOS VS GRANADA 08:15 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", AL WASL VS AL AHLI 10AM
+https://velive.lat:443/laura/12345678/480119.m3u8
+#EXTINF:-1 group-title="AGENDA", ATALANTA VS VENEZIA 10:30 AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATALANTA VS VENEZIA OPCION 2
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL OVIEDO VS EIBAR 10:30 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", AL NASRR VS NEFTCHI 12:15 PM
+https://velive.lat:443/laura/12345678/480127.m3u8
+#EXTINF:-1 group-title="AGENDA", TORINO VS UDINESE 12:45 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TORINO VS UDINESE OPCION 2
+http://186.33.61.182:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TORINO VS UDINESE OPCION 3
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LANUS VS VELEZ SARSFIELD 1PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CURITIBA VS BOTAFOGO 1PM
+https://velive.lat:443/laura/12345678/480134.m3u8
+#EXTINF:-1 group-title="AGENDA", LEVANTE VS SEVILLA 1PM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LEVANTE VS SEVILLA OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LEVANTE VS SEVILLA OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
+#EXTINF:-1 group-title="AGENDA", LEVANTE VS SEVILLA OPCION 4
+https://player.42web.io/live3/espndeportes.m3u8
+#EXTINF:-1 group-title="AGENDA", TENERIFE VS GIRONA 1PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", COVENTRY CITY VS NEWCASTLE 1PM
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", COVENTRY CITY VS NEWCASTLE OPCION 2
+https://velive.lat:443/laura/12345678/480130.m3u8
+#EXTINF:-1 group-title="AGENDA", 2 DE MAYO VS SPORTIVO AMELIANO 2PM
+https://player.42web.io/live3/tigopy.m3u8
+#EXTINF:-1 group-title="AGENDA", UNIVERSIDAD CHILE VS ÑUBLENSE 2PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", GIMNASIA MENDOZA VS NEWELLS 15:30 PM
+http://181.209.38.115:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NACIONAL ASUNCION VS DEPORTIVO RECOLETA 16:20 PM
+https://player.42web.io/live3/tigopy.m3u8
+#EXTINF:-1 group-title="AGENDA", CHAPECOENSE VS ATLETICO PARANAENSE 16:30 PM
+https://velive.lat:443/laura/12345678/480142.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: HAWKS VS THUNDER 5PM
+https://velive.lat:443/laura/12345678/480143.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: WIZZARDS VS NETS 5PM
+https://velive.lat:443/laura/12345678/480144.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: KNICKS VS TIMBERWOLVES 17:30 PM
+https://velive.lat:443/laura/12345678/480147.m3u8
+#EXTINF:-1 group-title="AGENDA", RB BRAGANTINO VS CRUZEIRO 6PM
+https://velive.lat:443/laura/12345678/480148.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: JAZZ VS SPURS 7PM
+https://velive.lat:443/laura/12345678/480154.m3u8
