@@ -127,6 +127,8 @@ http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/58116.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5670.m3u8
 #EXTINF:-1 group-title="AGENDA", CORINTHIANS F VS COLO COLO F 2PM
 http://190.90.154.112:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COBAN IMPERIAL VS MUNICIPAL 3PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", HURACAN VS GIMNASIA LP 5PM
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS LLANEROS 5PM
@@ -135,6 +137,8 @@ http://152.231.29.139:8000/play/a0je/index.m3u8
 https://zonacero.lat:443/laura/12345678/407641.m3u8
 #EXTINF:-1 group-title="AGENDA", NHL: SABRES VS MAPLE LEAFS 5PM
 http://38.134.250.110:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MARATHON VS OLANCHO 17:15 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: KNICKS VS RAPTORS 17:30 PM
 https://zonacero.lat:443/laura/12345678/481263.m3u8
 #EXTINF:-1 group-title="AGENDA", MLB: BREWERS VS DODGERS 6PM
@@ -155,5 +159,13 @@ http://38.134.250.110:8000/play/a00q/index.m3u8
 http://186.33.61.182:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS FLAMENGO OPCION 5
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", SUCHITEPEQUEZ VS SAN PEDRO 7PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", SANTA FE VS JAGUARES 19:05 PM
 http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", OLIMPIA VS REAL ESPAÑA 19:30 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", SAPRISSA VS SPORTING FC 8PM
+http://45.228.234.62:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="AGENDA", XELAJU MC VS MALACATECO 9PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
