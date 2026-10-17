@@ -1,99 +1,31 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", HOLSTEIN KIEL VS HERTA BERLIN 10:30 AM
-http://181.232.188.21:8282/play/a04b/index.m3u8
-#EXTINF:-1 group-title="AGENDA", SPORT HUANCAYO VS CUSCO 12PM
-http://190.108.83.69:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="AGENDA", EINTRACHT FRANKFURT VS KOLN 12:30 PM
-http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="AGENDA", EINTRACHT FRANKFURT VS KOLN OPCION 2
-https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/14879.m3u8
-#EXTINF:-1 group-title="AGENDA", EINTRACHT FRANKFURT VS KOLN OPCION 3
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", LEGANES VS CORDOBA 12:30 PM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
-#EXTINF:-1 group-title="AGENDA", FROSINONE VS SASSUOLO 12:45 PM
-http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
-#EXTINF:-1 group-title="AGENDA", LE MANS VS TOULOUSE 12:45 PM
-http://38.134.250.110:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BURNLEY VS WOLVERHAMPTON 1PM
-http://181.232.188.21:8282/play/a04b/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BURNLEY VS WOLVERHAMPTON OPCION 2
-https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="AGENDA", BURNLEY VS WOLVERHAMPTON OPCION 3
-http://186.33.61.182:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO LA CORUÑA VS LEVANTE 1PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO LA CORUÑA VS LEVANTE OPCION 2
-http://181.119.177.253:8000/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO LA CORUÑA VS LEVANTE OPCION 3
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO LA CORUÑA VS LEVANTE OPCION 4
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
-#EXTINF:-1 group-title="AGENDA", LOS CHANKAS VS ADT 14:30 PM
-http://190.108.83.69:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO CUENCA VS TECNICO UNIVERSITARIO 14:30 PM
-https://zonacero.lat:443/laura/12345678/481445.m3u8
-#EXTINF:-1 group-title="AGENDA", PLATENSE VS MOTAGUA 3PM
-https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", MLB: GUARDIANS VS RAYS 4PM
-http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AGENDA", DEFENSA Y JUSTICIA VS INSTITUTO 4PM
-http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CERRO VS CERRO LARGO 4PM
-https://zonacero.lat:443/laura/12345678/481449.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO RECOLETA VS RUBIO ÑU 16:20 PM
-http://45.170.130.224:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: PISTONS VS RAPTORS 5PM
-https://zonacero.lat:443/laura/12345678/481462.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: MAGIC VS HEAT 5PM
-https://zonacero.lat:443/laura/12345678/481461.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: PACERS VS BUCKS 5PM
-https://zonacero.lat:443/laura/12345678/481463.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: 76ERS VS CELTICS 5PM
-https://zonacero.lat:443/laura/12345678/481460.m3u8
-#EXTINF:-1 group-title="AGENDA", MIRASSOL VS INTERNACIONAL 5PM
-https://zonacero.lat:443/laura/12345678/481456.m3u8
-#EXTINF:-1 group-title="AGENDA", JUTICALPA VS CHOLOMA 17:15 PM
-https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", COQUIMBO UNIDO VS OHIGGINS 17:30 PM
-https://zonacero.lat:443/laura/12345678/481469.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: BULLS VS TIMBERWOLVES 6PM
-https://zonacero.lat:443/laura/12345678/481477.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: GRIZZLIES VS HORNETS 6PM
-https://zonacero.lat:443/laura/12345678/481478.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: SPURS VS KINGS 6PM
-https://zonacero.lat:443/laura/12345678/481480.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: MAVERICKS VS HAWKS 6PM
-https://zonacero.lat:443/laura/12345678/481476.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: PELICANS VS WIZARDS 6PM
-https://zonacero.lat:443/laura/12345678/481479.m3u8
-#EXTINF:-1 group-title="AGENDA", CRUZEIRO F VS LIGA DE QUITO F 6PM
-http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BOCA JUNIORS VS TALLERES 18:30 PM
-http://181.209.38.115:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BOCA JUNIORS VS TALLERES OPCION 2
+#EXTINF:-1 group-title="AGENDA", WOLFSBURGO VS HEIDENHEIM 5AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", EVERTON VS CHELSEA 05:30 AM
 http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CORRECAMINOS VS DORADOS 7PM
-http://186.33.61.182:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NECAXA VS ATLAS 7PM
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLETICO INDEPENDIENTE VS LOBOS UPNFM 19:30 PM
-https://tv.webmedialive.com/sulatv/live/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: SUNS VS JAZZ 8PM
-https://zonacero.lat:443/laura/12345678/481494.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: WARRIORS VS TRAIL BLAZERS 8PM
-https://zonacero.lat:443/laura/12345678/481493.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: LAKERS VS NUGGETS 20:30 PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLANTE VS PUMAS UNAM 9PM
-http:\\187.245.231.226:8000\play\a0uz\index.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLANTE VS PUMAS UNAM OPCION 2
+#EXTINF:-1 group-title="AGENDA", EVERTON VS CHELSEA OPCION 2
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", EVERTON VS CHELSEA OPCION 3
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", WATFORD VS CHARLTON 05:30 AM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", WATFORD VS CHARLTON OPCION 2
+http://186.33.61.182:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPANYOL VS ATLETICO MADRID 6AM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPANYOL VS ATLETICO MADRID OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPANYOL VS ATLETICO MADRID OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25125.m3u8
+#EXTINF:-1 group-title="AGENDA", ESPANYOL VS ATLETICO MADRID OPCION 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL SOCIEDAD II VS ALMERIA 6AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", PROGRESO VS JUVENTUD 7AM
+https://zonacero.lat:443/laura/12345678/316072.m3u8
+#EXTINF:-1 group-title="AGENDA", VENEZIA VS NAPOLI 7AM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", VENEZIA VS NAPOLI OPCION 2
 http://186.33.61.182:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ATLANTE VS PUMS UNAM OPCION 3
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TIJUANA VS PUEBLA 9PM
-http://186.33.0.57:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TIJUANA VS PUEBLA OPCION 2
-http://179.60.224.196:8000/play/a0f4/index.m3u8
