@@ -69,7 +69,13 @@ http://152.231.29.139:8000/play/a0je/index.m3u8
 http://38.134.250.110:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NFL: 49ERS VS COMMANDERS 6PM
 http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SPORTING FC VS SAN CARLOS 6PM
+http://186.33.0.57:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="AGENDA", DEPORTIVO RIESTRA VS UNION 18:15 PM
 http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ANTIGUA GFC VS XELAJU MC 7PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", DEPORTIVO PASTO VS ALIANZA 19:05 PM
 http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESCORPIONES VS PUNTARENAS 8PM
+http://45.228.234.62:8000/play/a05z/index.m3u8
