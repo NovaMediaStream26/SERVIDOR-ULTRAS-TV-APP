@@ -63,3 +63,55 @@ http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5667.m3u8
 http://38.134.250.110:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NAPOLI VS BODO/GLIMT OPCION 2
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5669.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PISTONS VS CELTICS 1PM
+https://zonacero.lat:443/laura/12345678/482261.m3u8
+#EXTINF:-1 group-title="AGENDA", COLO COLO VS PUERTO MONTT 3PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTIVO PEREIRA VS BOYACA CHICO 
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", UNION LA CALERA VS COQUIMBO UNIDO 5PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", UNION LA CALERA VS COQUIMBO UNIDO OPCION 2
+https://zonacero.lat:443/laura/12345678/482277.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: KNICKS VS 76ERS 5PM
+https://zonacero.lat:443/laura/12345678/482279.m3u8
+#EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS FORTALEZA 17:15 PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CUCUTA DEPORTIVO VS ATLETICO NACIONAL 17:30 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", GUADALAJARA VS NECAXA 18:07 PM
+https://zonacero.lat:443/laura/12345678/482304.m3u8
+#EXTINF:-1 group-title="AGENDA", VASCO DA GAMA VS BOCA JUNIORS 18:30 PM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", VASCO DA GAMA VS BOCA JUNIORS OPCION 2
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", VASCO DA GAMA VS BOCA JUNIORS OPCION 3
+http://186.33.61.182:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", VASCO DA GAMA VS BOCA JUNIORS OPCION 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO SAN LUIS VS QUERETARO 7PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JUAREZ VS ATLANTE 7PM
+https://live81.videxhd.sbs/latamplay/azteca7/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", JUAREZ VS ATLANTE OPCION 2
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JUAREZ VS ATLANTE OPCION 3
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JUAREZ VS ATLANTE OPCION 4
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", MILLONARIOS VS ONCE CALDAS 19:30 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: SPURS VS THUNDER 19:30 PM
+https://zonacero.lat:443/laura/12345678/482313.m3u8
+#EXTINF:-1 group-title="AGENDA", MARATHON VS ALIANZA 8PM
+https://zonacero.lat:443/laura/12345678/482316.m3u8
+#EXTINF:-1 group-title="AGENDA", MARATHON VS ALIANZA OPCION 2
+http://186.33.61.182:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS LEON 9PM
+https://live81.videxhd.sbs/latamplay/azteca7/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", TIGRES VS LEON OPCION 2
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS LEON OPCION 3
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS LEON OPCION 4
+https://estrellatv-oando.amagi.tv/playlist.m3u8
