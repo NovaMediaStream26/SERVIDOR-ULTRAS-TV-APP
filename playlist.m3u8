@@ -105,6 +105,16 @@ http://186.33.61.182:8000/play/a052/index.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: ROCKETS VS MAVERICKS 18:30 PM
 https://zonacero.lat:443/laura/12345678/482423.m3u8
+#EXTINF:-1 group-title="AGENDA", PUEBLA VS MONTERREY 7PM
+http://186.33.61.182:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLAS VS AMERICA 7PM
+https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", ATLAS VS AMERICA OPCION 2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TOLUCA VS TIJUANA 7PM
+https://live81.videxhd.sbs/latamplay/azteca7/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", TOLUCA VS TIJUANA OPCION 2
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 group-title="AGENDA", SANTA FE VS JAGUARES 19:20 PM
 http://152.231.29.139:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: LAKERS VS WARRIORS 8PM
@@ -117,3 +127,9 @@ http://186.33.61.182:8000/play/a050/index.m3u8
 https://zonacero.lat:443/laura/12345678/482441.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: CLIPPERS VS KINGS 20:30 PM
 https://zonacero.lat:443/laura/12345678/482445.m3u8
+#EXTINF:-1 group-title="AGENDA", PACHUCA VS CRUZ AZUL 21:10 PM
+https://zonacero.lat:443/laura/12345678/482448.m3u8
+#EXTINF:-1 group-title="AGENDA", SANTOS VS PUMAS 21:10 PM
+https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", SANTOS VS PUMAS OPCION 2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
