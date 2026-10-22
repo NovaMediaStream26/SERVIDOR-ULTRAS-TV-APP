@@ -133,3 +133,19 @@ http://38.134.250.110:8000/play/a01a/index.m3u8
 http://138.94.3.106:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NFL: BEARS VS PATRIOTS 6PM
 https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", FLAMENGO VS ESTUDIANTES 18:30 PM
+http:\\131.221.41.57:8000\play\a02s\index.m3u8
+#EXTINF:-1 group-title="AGENDA", FLAMENGO VS ESTUDIANTES OPCION 2
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FLAMENGO VS ESTUDIANTES OPCION 3
+http://186.33.61.182:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FLAMENGO VS ESTUDIANTES OPCION 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO NACIONAL VS DEPORTIVO PASTO 7PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MOTAGUA VS ALAJUELENSE 7PM
+https://zonacero.lat:443/laura/12345678/482641.m3u8
+#EXTINF:-1 group-title="AGENDA", ALEBRIJES VS CRUZ AZUL HIDALGO 7PM
+http://186.33.61.182:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: THUNDER VS NUGGETS 19:30 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
