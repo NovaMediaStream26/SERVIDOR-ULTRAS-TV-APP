@@ -75,27 +75,75 @@ http://38.134.250.110:8000/play/a00q/index.m3u8
 https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
 #EXTINF:-1 group-title="AGENDA", CHELSEA VS TOTTENHAM OPCION 4
 http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", 
+#EXTINF:-1 group-title="AGENDA", VALENCIA VS VILLARREAL 10:30 AM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", VALENCIA VS VILLARREAL OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", VALENCIA VS VILLARREAL OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
+#EXTINF:-1 group-title="AGENDA", VALENCIA VS VILLARREAL OPCION 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
+#EXTINF:-1 group-title="AGENDA", GIRONA VS CELTA VIGO II 10:30 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25953.m3u8
+#EXTINF:-1 group-title="AGENDA", LAS PALMAS VS REAL SOCIEDAD II 10:30 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", BORUSSIA DORTMUND VS EINTRACHT FRANKFURT 10:30 AM
+http://186.33.0.57:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BORUSSIA DORTMUND VS EINTRACHT FRANKFURT OPCIÓN 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", F1: GP ESTADOS UNIDOS (AUSTIN) PRACTICA 3 11:30 AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", F1: GP ESTADOS UNIDOS (AUSTIN) PRACTICA 3 OPCION 2
+https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", F1: GP ESTADOS UNIDOS (AUSTIN) PRACTICA 3 OPCIÓN 3
 http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
-http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MONTREAL IMPACT VS NASHVILLE 11:30 AM
+https://zonacero.lat:443/laura/12345678/483059.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
