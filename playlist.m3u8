@@ -21,3 +21,81 @@ http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
 #EXTINF:-1 group-title="AGENDA", CORDOBA VS EIBAR 6AM
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", CENTRAL ESPAÑOL VS ALBION 7AM
+https://zonacero.lat:443/laura/12345678/483018.m3u8
+#EXTINF:-1 group-title="AGENDA", CAGLIARI VS BOLOGNA 7AM
+https://zonacero.lat:443/laura/12345678/483016.m3u8
+#EXTINF:-1 group-title="AGENDA", COMO VS SASSUOLO 7AM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COMO VS SASSUOLO OPCION 2
+http://186.33.61.182:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", AUGSBURGO VS UNION BERLIN 07:30 AM
+https://weibplus.is/live/ArguedasJuan34/VCp8GFFeJ5/14879.m3u8
+#EXTINF:-1 group-title="AGENDA", KOLN VS SCHALKE 04 07:30 AM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MAINZ 05 VS WERDER BREMEN 07:30 AM
+https://zonacero.lat:443/laura/12345678/483022.m3u8
+#EXTINF:-1 group-title="AGENDA", PADERBORN VS HAMBURGO 07:30 AM
+https://zonacero.lat:443/laura/12345678/483023.m3u8
+#EXTINF:-1 group-title="AGENDA", RB LEIPZIG VS ELVERSBERG 07:30 AM
+https://zonacero.lat:443/laura/12345678/483021.m3u8
+#EXTINF:-1 group-title="AGENDA", ARSENAL VS EVERTON 8AM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARSENAL VS EVERTON OPCION 2
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", ARSENAL VS EVERTON OPCION 3
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COVENTRY CITY VS FULHAM 8AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5591.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", UFC: PELEAS PRELIMINARES 8AM
+https://zonacero.lat:443/laura/12345678/483031.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS ESPANYOL 08:15 AM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS ESPANYOL OPCION 2
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS ESPANYOL OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25125.m3u8
+#EXTINF:-1 group-title="AGENDA", RACING SANTANDER VS ESPANYOL OPCION 4
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5605.m3u8
+#EXTINF:-1 group-title="AGENDA", LEGANES VS MALLORCA 08:15 AM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", BRASIL F VS NORUEGA F 9AM
+https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTES LA SERENA VS DEPORTES CONCEPCION 09:30 AM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NAPOLI VS ROMA 10AM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NAPOLI VS ROMA OPCION 2
+http://186.33.61.182:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CHELSEA VS TOTTENHAM 10:30 AM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CHELSEA VS TOTTENHAM OPCION 2
+https://live91.videxhd.sbs/tvtvhd/dazn1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", CHELSEA VS TOTTENHAM OPCION 4
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", 
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PRESTON VS WEST BROM 8AM
+http://181.232.188.21:8282/play/a046/index.m3u8
