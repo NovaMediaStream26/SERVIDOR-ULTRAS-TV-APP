@@ -139,6 +139,8 @@ http://152.231.29.139:8000/play/a0je/index.m3u8
 https://zonacero.lat:443/laura/12345678/316072.m3u8
 #EXTINF:-1 group-title="AGENDA", AZ ALKMAART VS TWENTE 1PM
 http://186.33.61.182:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COBAN IMPERIAL VS MARQUENSE 1PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", UDINESE VS MILAN 13:45 PM
 http://38.134.250.110:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="AGENDA", UDINESE VS MILAN OPCION 2
@@ -183,10 +185,16 @@ https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
 http://45.228.234.62:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: JAZZ VS LAKERS 3PM
 https://zonacero.lat:443/laura/12345678/483342.m3u8
+#EXTINF:-1 group-title="AGENDA", MOTAGUA VS JUTICALPA 3PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", ALIANZA VS INTER BOGOTA 15:05 PM
 http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN PEDRO VS MALACATECO 15:10 PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: NETS VS PACERS 4PM
 https://zonacero.lat:443/laura/12345678/483348.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN CARLOS VS SAPRISSA 4PM
+http://186.33.0.57:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="AGENDA", RIVER PLATE VS RACING CLUB 16:15 PM
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="AGENDA", RIVER PLATE VS RACING CLUB OPCIÓN 2
@@ -215,10 +223,16 @@ https://zonacero.lat:443/laura/12345678/483352.m3u8
 https://zonacero.lat:443/laura/12345678/483353.m3u8
 #EXTINF:-1 group-title="AGENDA", ATLETICO NACIONAL VS INDEPENDIENTE MEDELLIN 17:10 PM
 http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LOBOS UPNFM VS OLIMPIA 17:15 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: 76ERS VS PISTONS 17:30 PM
 https://zonacero.lat:443/laura/12345678/483362.m3u8
+#EXTINF:-1 group-title="AGENDA", SUCHITEPEQUEZ VS AURORA 17:30 PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NFL: SEAHAWKS VS CHIEFS 6PM
 http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ALAJUELENSE VS PEREZ ZELEDON 6PM
+http://45.228.234.62:8000/play/a05z/index.m3u8
 #EXTINF:-1 group-title="AGENDA", BARRACAS CENTRAL VS ESTUDIANTES RIO CUARTO 18:30 PM
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="AGENDA", CENTRAL CORDOBA VS VELEZ SARSFIELD 18:30 PM
