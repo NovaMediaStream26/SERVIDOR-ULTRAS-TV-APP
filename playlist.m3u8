@@ -99,3 +99,103 @@ http://138.94.3.106:8000/play/a04n/index.m3u8
 http://190.108.83.69:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="AGENDA", PORTO VS ACADEMICO 14:30 PM
 http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SANTOS VS PALMEIRAS 16:30 PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SANTOS VS PALMEIRAS OPCION 2
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", FLUMINENSE VS INTERNACIONAL 16:30 PM
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FLUMINENSE VS INTERNACIONAL OPCION 2
+https://zonacero.lat:443/laura/12345678/483882.m3u8
+#EXTINF:-1 group-title="AGENDA", RB BRAGANTINO VS CHAPECOENSE 16:30 PM
+https://zonacero.lat:443/laura/12345678/483883.m3u8
+#EXTINF:-1 group-title="AGENDA", SPORTIVO LUQUEÑO VS DEPORTIVO RECOLETA 16:30 PM
+http://45.170.130.224:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ONCE CALDAS VS ALIANZA 5PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PACERS VS 76ERS 5PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: CAVALIERS VS TIMBERWOLVES 5PM
+https://zonacero.lat:443/laura/12345678/483889.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: HORNETS VS WIZARDS 5PM
+https://zonacero.lat:443/laura/12345678/483890.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: HEAT VS HAWKS 5PM
+https://zonacero.lat:443/laura/12345678/483888.m3u8
+#EXTINF:-1 group-title="AGENDA", UNIVERSIDAD CATOLICA VS AUDAX ITALIANO 17:30 PM
+http://138.99.179.64:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="AGENDA", INTER MIAMI VS CINCINNATI 17:30 PM
+https://zonacero.lat:443/laura/12345678/483903.m3u8
+#EXTINF:-1 group-title="AGENDA", CHARLOTTE VS MONTREAL IMPACT 17:30 PM
+https://zonacero.lat:443/laura/12345678/483901.m3u8
+#EXTINF:-1 group-title="AGENDA", NEW YORK CITY VS ATLANTA UNITED 17:30 PM
+https://zonacero.lat:443/laura/12345678/483905.m3u8
+#EXTINF:-1 group-title="AGENDA", TORONTO FC VS DC UNITED 17:30 PM
+https://zonacero.lat:443/laura/12345678/483906.m3u8
+#EXTINF:-1 group-title="AGENDA", NEW ENGLAND VS NEW YORK RB 17:30 PM
+https://zonacero.lat:443/laura/12345678/483904.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: RAPTORS VS MAGIC 17:30 PM
+https://zonacero.lat:443/laura/12345678/483907.m3u8
+#EXTINF:-1 group-title="AGENDA", CIENCIANO VS ATLETICO GRAU 6PM
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CRUZEIRO F VS OLIMPIA F 6PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", DELFIN VS INDEPENDIENTE DEL VALLE 6PM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: BUCKS VS ROCKETS 6PM
+https://zonacero.lat:443/laura/12345678/483910.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PELICANS VS NUGGETS 6PM
+https://zonacero.lat:443/laura/12345678/483912.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: TIMBERWOLVES VS WARRIORS 6PM
+https://zonacero.lat:443/laura/12345678/483911.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: BULLS VS KNICKS 6PM
+https://zonacero.lat:443/laura/12345678/483909.m3u8
+#EXTINF:-1 group-title="AGENDA", MLB: BREWERS VS RAYS JUEGO 5 6PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO TUCUMAN VS PLATENSE 18:15 PM
+http://190.7.19.206:8098/play/a0mn/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BAHIA VS SAO PAULO 18:30 PM
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BAHIA VS SAO PAULO OPCION 2
+https://zonacero.lat:443/laura/12345678/483921.m3u8
+#EXTINF:-1 group-title="AGENDA", REMO VS BOTAFOGO 18:30 PM
+https://zonacero.lat:443/laura/12345678/483922.m3u8
+#EXTINF:-1 group-title="AGENDA", AUSTIN VS REAL SALT LAKE 18:30 PM
+https://zonacero.lat:443/laura/12345678/483924.m3u8
+#EXTINF:-1 group-title="AGENDA", CHICAGO FIRE VS ORLANDO CITY 18:30 PM
+https://zonacero.lat:443/laura/12345678/483925.m3u8
+#EXTINF:-1 group-title="AGENDA", FC DALLAS VS COLUMBUS CREW 18:30 PM
+https://zonacero.lat:443/laura/12345678/483926.m3u8
+#EXTINF:-1 group-title="AGENDA", MINNESOTA UNITED VS SPORTING KANSAS CITY 18:30 PM
+https://zonacero.lat:443/laura/12345678/483927.m3u8
+#EXTINF:-1 group-title="AGENDA", NASHVILLE VS PHILADELPHIA UNION 18:30 PM
+https://zonacero.lat:443/laura/12345678/483928.m3u8
+#EXTINF:-1 group-title="AGENDA", ST LOUIS CITY VS PORTLAND TIMBERS 18:30 PM
+https://zonacero.lat:443/laura/12345678/483929.m3u8
+#EXTINF:-1 group-title="AGENDA", SAPRISSA VS LA FIRPO 18:30 PM
+https://zonacero.lat:443/laura/12345678/483923.m3u8
+#EXTINF:-1 group-title="AGENDA", SAPRISSA VS LA FIRPO OPCION 2
+https://183.bozztv.com/giatv/giatv-teleuno/teleuno/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: JAZZ VS SPURS 7PM
+https://zonacero.lat:443/laura/12345678/483932.m3u8
+#EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS INDEPENDIENTE MEDELLIN 19:05 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTES QUINDIO VS REAL CUNDINAMARCA 19:05 PM
+http://138.94.3.106:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: MAVERICKS VS THUNDER 19:30 PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SJ EARTHQUAKES VS COLORADO RAPIDS 20:30 PM
+https://zonacero.lat:443/laura/12345678/483953.m3u8
+#EXTINF:-1 group-title="AGENDA", SEATTLE SOUNDERS VS HOUSTON DYNAMO 20:30 PM
+https://zonacero.lat:443/laura/12345678/483954.m3u8
+#EXTINF:-1 group-title="AGENDA", VANCOUVER WHITECAPS VS SAN DIEGO 20:30 PM
+https://zonacero.lat:443/laura/12345678/483955.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: CLIPPERS VS LAKERS 20:30 PM
+https://zonacero.lat:443/laura/12345678/483956.m3u8
+#EXTINF:-1 group-title="AGENDA", OLIMPIA VS CARTAGINES 9PM
+https://zonacero.lat:443/laura/12345678/483958.m3u8
+#EXTINF:-1 group-title="AGENDA", OLIMPIA VS CARTAGINES OPCION 2
+https://183.bozztv.com/giatv/giatv-teleuno/teleuno/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", AMERICA VS TIJUANA 9PM
+https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", AMERICA VS TIJUANA OPCION 2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
