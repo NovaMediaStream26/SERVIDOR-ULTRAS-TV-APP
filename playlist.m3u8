@@ -7,7 +7,9 @@ https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
 https://zonacero.lat:443/laura/12345678/484101.m3u8
 #EXTINF:-1 group-title="AGENDA", CSKA MOSCU VS LOKOMOTIV MOSCU 10:30 AM
 https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="AGENDA", FROSINONE VS LECCE 11:30 AM
+#EXTINF:-1 group-title="AGENDA", MIXCO VS XELAJU MC 11AM
+http://181.78.106.127:5000/play/ca022/index.m3u8
+#EXTINF:-1 group-title="AGENDA", FROSINONE VS LECCE 11:30 PM
 http://38.134.250.110:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="AGENDA", PARIS FC F VS HACKEN F 11:45 AM
 http://38.134.250.110:8000/play/a015/index.m3u8
@@ -85,6 +87,8 @@ https://zonacero.lat:443/laura/12345678/484149.m3u8
 https://zonacero.lat:443/laura/12345678/484148.m3u8
 #EXTINF:-1 group-title="AGENDA", NFL: PACKERS VS PANTHERS 6PM
 http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ANTIGUA GFC VS SAN PEDRO 6PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", MELGAR VS COMERCIANTES UNIDOS 18:30 PM
 http://190.108.83.69:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="AGENDA", GREMIO VS ATLETICO PARANAENSE 18:30 PM
@@ -99,3 +103,5 @@ https://zonacero.lat:443/laura/12345678/484173.m3u8
 https://183.bozztv.com/giatv/giatv-teleuno/teleuno/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: TRAIL BLAZERS VS GRIZZLIES 8PM
 https://zonacero.lat:443/laura/12345678/484174.m3u8
+#EXTINF:-1 group-title="AGENDA", MARQUENSE VS GUASTATOYA 20:10 PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
