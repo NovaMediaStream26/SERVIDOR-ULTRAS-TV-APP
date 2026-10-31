@@ -141,6 +141,8 @@ http://38.134.250.110:8000/play/a00r/index.m3u8
 http://181.232.188.21:8282/play/a046/index.m3u8
 #EXTINF:-1 group-title="AGENDA", F1: GP MEXICO CLASIFICACION OPCION 3
 https://live91.videxhd.sbs/latamplay/daznf1/index.m3u8?api=1234
+#EXTINF:-1 group-title="AGENDA", LOBOS UPNFM VS GENESIS POLICIA NACIONAL 3PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", VELEZ SARSFIELD VS SAN LORENZO 16:15 PM
 http://181.209.38.115:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="AGENDA", SPORTIVO LUQUEÑO VS NACIONAL ASUNCION 16:30 PM
@@ -149,6 +151,8 @@ https://player.42web.io/live2/tigo1.m3u8
 http://138.99.179.64:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="AGENDA", PACHUCA VS TIGRES 5PM
 http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", REAL ESPAÑA VS JUTICALPA 17:15 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", CRUZEIRO F VS CORINTHIANS F 6PM
 http://138.94.3.106:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS INSTITUTO 18:30 PM
@@ -159,6 +163,10 @@ https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
 http://179.60.224.196:8000/play/a0f4/index.m3u8
 #EXTINF:-1 group-title="AGENDA", GUADALAJARA VS ATLANTE 19:07 PM
 http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CHOLOMA VS OLIMPIA 19:30 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", SPORTING FC VS HEREDIANO 8PM
+http://186.33.0.57:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="AGENDA", AMERICA VS TOLUCA 21:10 PM
 https://live91.videxhd.sbs/latamplay/canal5mx/index.m3u8?api=1234
 #EXTINF:-1 group-title="AGENDA", AMERICA VS TOLUCA OPCION 2
