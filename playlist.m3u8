@@ -179,16 +179,16 @@ http://186.148.196.250:81/play/a0of/index.m3u8
 http://190.108.83.69:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="AGENDA", SPORTING LISBOA VS MOREIRENSE 14:30 PM
 http:\\38.190.100.202:8000\play\a09q\index.m3u8
-#EXTINF:-1 group-title="AGENDA", 
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
-http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", JUTICALPA VS ESTRELLA ROJA 3PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN PEDRO VS MIXCO 3PM
+http://181.78.106.127:5000/play/ca022/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLÉTICO MINEIRO VS GREMIO 3PM
+http://38.190.100.202:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLÉTICO MINEIRO VS GREMIO OPCION 2
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", INTER MIAMI VS CHARLOTTE 3PM
+
 #EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
 http://190.108.91.206:9050/play/a089/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
