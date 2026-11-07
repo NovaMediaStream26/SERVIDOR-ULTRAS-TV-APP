@@ -203,12 +203,12 @@ http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
 http://zonacero.lat:8080/live/laura/12345678/488713.m3u8
 #EXTINF:-1 group-title="AGENDA", PHILADELPHIA UNION VS TORONTO FC 3PM
 http://zonacero.lat:8080/live/laura/12345678/488714.m3u8
-#EXTINF:-1 group-title="AGENDA", ONCE CALDAS VS AGUILAS DORADAS 3PM
+#EXTINF:-1 group-title="AGENDA", ONCE CALDAS VS AGUILAS DORADAS 15:05 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PACERS VS NUGGETS 4PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", UFC: PELEAS PRELIMINARES 4PM
 
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
 #EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
 http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
 #EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
