@@ -208,19 +208,19 @@ http://152.231.29.139:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: PACERS VS NUGGETS 4PM
 http://38.134.250.110:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="AGENDA", UFC: PELEAS PRELIMINARES 4PM
+http://zonacero.lat:8080/live/laura/12345678/488727.m3u8
+#EXTINF:-1 group-title="AGENDA", LIBERTAD VS NACIONAL ASUNCIÓN 16:30 PM
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLAS VS PACHUCA 5PM
+http://zonacero.lat:8080/live/laura/12345678/488728.m3u8
+#EXTINF:-1 group-title="AGENDA", MELGAR VS JUAN PABLO II COLLEGE 5PM
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLÉTICO NACIONAL VS DEPORTIVO PEREIRA 17:10 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LOBOS UNFM VS MOTAGUA 17:15 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", AUSTIN VS PORTLAND TIMBERS 6PM
 
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
 #EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
 http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
 #EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
