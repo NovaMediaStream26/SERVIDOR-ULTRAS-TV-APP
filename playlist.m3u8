@@ -230,22 +230,68 @@ http://zonacero.lat:8080/live/laura/12345678/488738.m3u8
 #EXTINF:-1 group-title="AGENDA", REAL SALT LAKE VS LA GALAXY 6PM
 http://zonacero.lat:8080/live/laura/12345678/488739.m3u8
 #EXTINF:-1 group-title="AGENDA", SAN DIEGO VS SPORTING KANSAS CITY 6PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
+http://zonacero.lat:8080/live/laura/12345678/488740.m3u8
+#EXTINF:-1 group-title="AGENDA", SEATTLE SOUNDERS VS LOS ANGELES FC 6PM
+http://zonacero.lat:8080/live/laura/12345678/488741.m3u8
+#EXTINF:-1 group-title="AGENDA", SAN CARLOS VS PEREZ ZELEDON 6PM
+http://186.33.0.57:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NHL: CANADIENS VS MAPLE LEAFS 6PM
+http://zonacero.lat:8080/live/laura/12345678/488744.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: HAWKS VS NETS 18:30 PM
+http://zonacero.lat:8080/live/laura/12345678/488748.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS CRUZ AZUL 7PM
+http:\\45.228.234.62:8000\play\a008\index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS CRUZ AZUL OPCION 2
+http://190.121.140.222:8081/AZTECA-DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS CRUZ AZUL OPCION 3
+http://190.108.91.206:9050/play/a089/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS CRUZ AZUL OPCION 4
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TIGRES VS CRUZ AZUL OPCION 5
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", TOLUCA VS MONTERREY 7PM
+http:\\45.228.234.62:8000\play\a05x\index.m3u8
+#EXTINF:-1 group-title="AGENDA", TOLUCA VS MONTERREY OPCION 2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", TOLUCA VS MONTERREY OPCION 3
+http://186.33.0.57:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="AGENDA", INSTITUTO VS NEWELLS 7PM
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO MORELIA VS VENADOS 7PM
+http://45.228.234.62:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO MORELIA VS VENADOS OPCION 2
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: CAVALIERS VS KNICKS 7PM
+http://zonacero.lat:8080/live/laura/12345678/488762.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: THUNDER VS WIZARDS 7PM
+http://zonacero.lat:8080/live/laura/12345678/488763.m3u8
+#EXTINF:-1 group-title="AGENDA", UFC PELEAS ESTELARES 7PM
+http://zonacero.lat:8080/live/laura/12345678/488727.m3u8
+#EXTINF:-1 group-title="AGENDA", AMERICA CALI VS DEPORTIVO CALI 19:15 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CIENCIANO VS SPORT HUANCAYO 19:30 PM
+http://190.108.83.69:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="AGENDA", OLIMPIA VS OLANCHO 19:30 PM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: WARRIORS VS MAGIC 19:30 PM
+http://zonacero.lat:8080/live/laura/12345678/488770.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: SUNS VS ROCKETS 8PM
+http://zonacero.lat:8080/live/laura/12345678/488774.m3u8
+#EXTINF:-1 group-title="AGENDA", MARQUENSE VS COMUNICACIONES 8PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ALAJUELENSE VS SPORTING FC 8PM
+http:\\190.83.15.112:8000\play\a0bj\index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: TRAIL BLAZERS VS SPURS 9PM
+http://zonacero.lat:8080/live/laura/12345678/488783.m3u8
+#EXTINF:-1 group-title="AGENDA", NHL: CANUCKS VS OILERS 9PM
+http://zonacero.lat:8080/live/laura/12345678/488784.m3u8
+#EXTINF:-1 group-title="AGENDA", LA PAZ VS TLAXCALA 21:05 PM
+http://45.228.234.62:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="AGENDA", LA PAZ VS TLAXCALA OPCION 2
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 group-title="AGENDA", PUMAS UNAM VS AMERICA 21:10 PM
+http:\\45.228.234.62:8000\play\a05x\index.m3u8
+#EXTINF:-1 group-title="AGENDA", PUMAS UNAM VS AMERICA OPCION 2
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PUMAS UNAM VS AMERICA OPCION 3
+http://186.33.0.57:8000/play/a05v/index.m3u8
