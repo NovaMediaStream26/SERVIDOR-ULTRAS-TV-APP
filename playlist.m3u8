@@ -220,11 +220,11 @@ http://152.231.29.139:8000/play/a0je/index.m3u8
 #EXTINF:-1 group-title="AGENDA", LOBOS UNFM VS MOTAGUA 17:15 PM
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 #EXTINF:-1 group-title="AGENDA", AUSTIN VS PORTLAND TIMBERS 6PM
-
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
-#EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
-http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
+http://zonacero.lat:8080/live/laura/12345678/488735.m3u8
+#EXTINF:-1 group-title="AGENDA", FC DALLAS VS COLORADO RAPIDS 6PM
+http://zonacero.lat:8080/live/laura/12345678/488736.m3u8
+#EXTINF:-1 group-title="AGENDA", HOUSTON DYNAMO VS ST. LOUIS CITY 6PM
+http://zonacero.lat:8080/live/laura/12345678/488737.m3u8
 #EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
 http://zonacero.lat:8080/live/laura/12345678/488712.m3u8
 #EXTINF:-1 group-title="AGENDA", NEW YORK RB VS ATLANTA UNITED 3PM
