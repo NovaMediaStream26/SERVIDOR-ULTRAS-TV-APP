@@ -188,12 +188,12 @@ http://38.190.100.202:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ATLÉTICO MINEIRO VS GREMIO OPCION 2
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 group-title="AGENDA", INTER MIAMI VS CHARLOTTE 3PM
-
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
-http://190.108.91.206:9050/play/a089/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/488710.m3u8
+#EXTINF:-1 group-title="AGENDA", MONTREAL IMPACT VS VANCOUVER WHITECAPS 3PM
+http://zonacero.lat:8080/live/laura/12345678/488706.m3u8
+#EXTINF:-1 group-title="AGENDA", CHICAGO FIRE VS COLUMBUS CREW 3PM
+http://zonacero.lat:8080/live/laura/12345678/488707.m3u8
+#EXTINF:-1 group-title="AGENDA", 
 http://190.108.91.206:9050/play/a089/index.m3u8
 #EXTINF:-1 group-title="AGENDA", ROMA VS SASSUOLO 13:45 PM
 http://190.108.91.206:9050/play/a089/index.m3u8
