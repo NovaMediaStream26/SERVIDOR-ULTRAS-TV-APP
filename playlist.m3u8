@@ -1,65 +1,45 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", HACKEN F VS CHELSEA F 11:45 AM
-http://zonacero.lat:8080/live/laura/12345678/489519.m3u8
-#EXTINF:-1 group-title="AGENDA", REAL MADRID F VS PARIS FC F 11:45 AM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", REAL MADRID F VS PARIS FC F OPCION 2
-http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
-#EXTINF:-1 group-title="AGENDA", REAL MADRID F VS PARIS FC F OPCION 3
+#EXTINF:-1 group-title="AGENDA", LEUVEN F VS KOGE 11:45 AM
 http://38.188.186.47:4000/play/Ji198/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ANAITASUNA VS ALAVES 12PM
-http://181.78.106.127:5000/play/ca022/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ANAITASUNA VS ALAVES OPCION 2
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
-#EXTINF:-1 group-title="AGENDA", TIGRE VS VELEZ SARSFIELD 12PM
+#EXTINF:-1 group-title="AGENDA", INDEPENDIENTE VS LANUS 12PM
 http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="AGENDA", HURACAN FC VS RIVER PLATE 13:30 PM
-http://zonacero.lat:8080/live/laura/12345678/316072.m3u8
-#EXTINF:-1 group-title="AGENDA", ROMA F VS SERVETTE F 2PM
-http://zonacero.lat:8080/live/laura/12345678/489529.m3u8
-#EXTINF:-1 group-title="AGENDA", INTER MILAN F VS MANCHESTER CITY F 2PM
+#EXTINF:-1 group-title="AGENDA", BENFICA F VS AUSTRIA VIENA F 2PM
+http://zonacero.lat:8080/live/laura/12345678/489662.m3u8
+#EXTINF:-1 group-title="AGENDA", JUVENTUS F VS LYONN F 2PM
 http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", PSG F VS BAYER MUNICH F 2PM
-http:\\fortv.cc:8080\live\shidarn@yahoo.com\zPNLXyt8sg\10454.m3u8
-#EXTINF:-1 group-title="AGENDA", PSG F VS BAYER MUNICH F OPCION 2
+#EXTINF:-1 group-title="AGENDA", JUVENTUS F VS LYONN F OPCION 2
 http://38.188.186.47:4000/play/Ji198/index.m3u8
-#EXTINF:-1 group-title="AGENDA", TAVERNES VS VALENCIA 2PM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
-#EXTINF:-1 group-title="AGENDA", TALLERES VS SARMIENTO 2PM
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-#EXTINF:-1 group-title="AGENDA", ENVIGADO VS BOCA JUNIORS DE CALI 14:30 PM
+#EXTINF:-1 group-title="AGENDA", REAL CUNDINAMARCA VS REAL CARTAGENA 5PM
 http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS AMERICA CALI 17:30 PM
-http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: AVALANCHE VS MAPLE LEAFS 6PM
-http://zonacero.lat:8080/live/laura/12345678/489570.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: WILD VS CANADIENS 6PM
-http://zonacero.lat:8080/live/laura/12345678/489568.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: CAPITALS VS SENATORS 6PM
-http://zonacero.lat:8080/live/laura/12345678/489569.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: DEVILS VS JETS 6PM
-http://zonacero.lat:8080/live/laura/12345678/489571.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: KNICKS VS BUCKS 18:30 PM
-http://zonacero.lat:8080/live/laura/12345678/489573.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: PANTHERS VS BLUE JACKETS 18:30 PM
-http://zonacero.lat:8080/live/laura/12345678/489579.m3u8
-#EXTINF:-1 group-title="AGENDA", PUMAS UNAM F VS TIGRES F 7PM
-http://zonacero.lat:8080/live/laura/12345678/489580.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: 76ERS VS CELTICS 7PM
-http://zonacero.lat:8080/live/laura/12345678/489582.m3u8
-#EXTINF:-1 group-title="AGENDA", ONCE CALDAS VS ATLETICO NACIONAL 19:30 PM
-http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: JAZZ VS HEAT 8PM
-http://zonacero.lat:8080/live/laura/12345678/489602.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: SUNS VS CLIPPERS 8PM
-http://zonacero.lat:8080/live/laura/12345678/489601.m3u8
-#EXTINF:-1 group-title="AGENDA", JUAREZ F VS GUADALAJARA F 9PM
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: KINGS VS MAGIC 9PM
-http://zonacero.lat:8080/live/laura/12345678/489615.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: PREDATORS VS KINGS 9PM
-http://zonacero.lat:8080/live/laura/12345678/489617.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: TRAIL BLAZERS VS THUNDER 10PM
-http://zonacero.lat:8080/live/laura/12345678/489619.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PACERS VS WIZARDS 6PM
+http://zonacero.lat:8080/live/laura/12345678/489682.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: RAPTORS VS CELTICS 6PM
+http://zonacero.lat:8080/live/laura/12345678/489685.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: KNICKS VS CAVALIERS 6PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", AMERICA F VS TOLUCA F 7PM
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: BULLS VS SPURS 7PM
+http://zonacero.lat:8080/live/laura/12345678/489720.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: BUCKS VS LAKERS 7PM
+http://zonacero.lat:8080/live/laura/12345678/489722.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PELICANS VS NETS 7PM
+http://zonacero.lat:8080/live/laura/12345678/489723.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: GRIZZLIES VS NUGGETS 7PM
+http://zonacero.lat:8080/live/laura/12345678/489721.m3u8
+#EXTINF:-1 group-title="AGENDA", DEPORTES QUINDIO VS TIGRES 19:10 PM
+http:\\152.231.29.139:8000\play\a0g4\index.m3u8
+#EXTINF:-1 group-title="AGENDA", PIRATAS VS ATLETICO LA PAZ 8PM
+http://45.228.234.62:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PIRATAS VS ATLETICO LA PAZ OPCION 2
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: JAZZ VS MAGIC 8PM
+http://zonacero.lat:8080/live/laura/12345678/489732.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: ROCKETS VS WARRIORS 20:30 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", PACHUCA F VS MONTERREY F 9PM
+http://zonacero.lat:8080/live/laura/12345678/489744.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: TRAIL BLAZERS VS THUNDER 9PM
+http://zonacero.lat:8080/live/laura/12345678/489745.m3u8
