@@ -1,43 +1,17 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", ARMENIA VS CHIPRE 11AM
-http://zonacero.lat:8080/live/laura/12345678/490202.m3u8
-#EXTINF:-1 group-title="AGENDA", TURQUIA VS BELGICA 11AM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BARCELONA F VS ARSENAL F 11:45 AM
+#EXTINF:-1 group-title="AGENDA", SINGAPUR VS PARAGUAY 6AM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 group-title="AGENDA", EMIRATOS ARABES UNIDOS VS HONDURAS 08:10 AM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", ARABIA SAUDI VS COREA DEL SUR 08:30 AM
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", QATAR VS AUSTRALIA 08:45 AM
+https://liveakgrns.alkassdigital.net/hls/live/20003219/shooflivevssaua/hdntl=exp=1794628484~acl=%2f*~data=hdntl~hmac=36629e898e33a33a0aa497e8fd63fa13d899a35fc38f3ad17e5cc8eb5447a464/master1080.m3u8
+#EXTINF:-1 group-title="AGENDA", MOLDAVIA VS KAZAJISTAN 11AM
 http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", BARCELONA F VS ARSENAL F OPCION 2
-http://38.188.186.47:4000/play/Ji198/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ROSARIO CENTRAL VS RIVER PLATE 12PM
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-#EXTINF:-1 group-title="AGENDA", SAN MARINO VS BIELORRUSIA 13:45 PM
-http://zonacero.lat:8080/live/laura/12345678/490217.m3u8
-#EXTINF:-1 group-title="AGENDA", MONTENEGRO VS LETONIA 13:45 PM
-http://zonacero.lat:8080/live/laura/12345678/490215.m3u8
-#EXTINF:-1 group-title="AGENDA", ALBANIA VS FINLANDIA 13:45 PM
-http://zonacero.lat:8080/live/laura/12345678/490212.m3u8
-#EXTINF:-1 group-title="AGENDA", ITALIA VS FRANCIA 13:45 PM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", INGLATERRA VS CROACIA 13:45 PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", REPUBLICA CHECA VS ESPAÑA 13:45 PM
-http://38.134.250.110:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AGENDA", REPUBLICA CHECA VS ESPAÑA OPCION 2
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO PASTO VS JUNIOR 4PM
-http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTUDIANTES VS INDEPENDIENTE RIVADAVIA 5PM
-http://zonacero.lat:8080/live/laura/12345678/490230.m3u8
-#EXTINF:-1 group-title="AGENDA", LLANEROS VS BOYACA CHICO 6PM
-http://152.231.29.139:8000/play/a0je/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: 76ERS VS RAPTORS 6PM
-http://zonacero.lat:8080/live/laura/12345678/490235.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: WIZARDS VS PISTONS 6PM
-http://zonacero.lat:8080/live/laura/12345678/490236.m3u8
-#EXTINF:-1 group-title="AGENDA", CURAZAO VS PANAMA 18:30 PM
-http://179.60.224.196:8000/play/a0f4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: TIMBERWOLVES VS MAVERICKS 7PM
-http://zonacero.lat:8080/live/laura/12345678/490255.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: SUNS VS HORNETS 8PM
-http://zonacero.lat:8080/live/laura/12345678/490267.m3u8
+#EXTINF:-1 group-title="AGENDA", PUERTO RICO VS DOMINICA 1PM
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJmOGQ4NzFkN2ExZTgxM2Q4MWEyOWM2YzY3NjMxNmI5NSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzk0NTg1NTU1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mxtaUXpjq46BeKcJxXBG1dhKv40odffsbWsifKzgzzZTfJFNNF5QMpOnX5wdgE8YmQVtNEhxuIM9Y6tqE9V8paUR3J2dulDvIV0jmG9suwBMqepTTUZZt96I2nep9K0ocH6hVd3G_b78w8ZUjSMYv71USFhOx1Seilqf_u8rzr5lF9gGqAMvczeV80xs4ehaVu3mISSjCb2Uv90ThxnLrD3crdlW95bPINLRKCBp_1F6AvQ1_A0Z3lpXezp8RQMZLp8okdD7PPDYLPglskFLbUck7K-Xk-mbMawrpm_jYrObj5Ya0RR7L6ggeprxBFSW9EHY5KcYWQjFzav1YS3afA/manifest/stream_ta37ce7eec9c45efbadae96ef095f23eb_r2007434937.m3u8?llhlsHBs=0.5&lps=4d572d8f8c5f4ba8&rcu=1794542476681&CMCD=cid%3D%221794542213213%22%2Cmtp%3D113400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227e5d6b64-bfb5-45de-9306-477991589fb0%22
+#EXTINF:-1 group-title="AGENDA", LEGANES VS BURGOS 13:30 PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
