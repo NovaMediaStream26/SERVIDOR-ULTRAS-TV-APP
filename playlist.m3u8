@@ -15,3 +15,77 @@ http://38.134.250.110:8000/play/a00r/index.m3u8
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJmOGQ4NzFkN2ExZTgxM2Q4MWEyOWM2YzY3NjMxNmI5NSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzk0NTg1NTU1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mxtaUXpjq46BeKcJxXBG1dhKv40odffsbWsifKzgzzZTfJFNNF5QMpOnX5wdgE8YmQVtNEhxuIM9Y6tqE9V8paUR3J2dulDvIV0jmG9suwBMqepTTUZZt96I2nep9K0ocH6hVd3G_b78w8ZUjSMYv71USFhOx1Seilqf_u8rzr5lF9gGqAMvczeV80xs4ehaVu3mISSjCb2Uv90ThxnLrD3crdlW95bPINLRKCBp_1F6AvQ1_A0Z3lpXezp8RQMZLp8okdD7PPDYLPglskFLbUck7K-Xk-mbMawrpm_jYrObj5Ya0RR7L6ggeprxBFSW9EHY5KcYWQjFzav1YS3afA/manifest/stream_ta37ce7eec9c45efbadae96ef095f23eb_r2007434937.m3u8?llhlsHBs=0.5&lps=4d572d8f8c5f4ba8&rcu=1794542476681&CMCD=cid%3D%221794542213213%22%2Cmtp%3D113400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227e5d6b64-bfb5-45de-9306-477991589fb0%22
 #EXTINF:-1 group-title="AGENDA", LEGANES VS BURGOS 13:30 PM
 http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
+#EXTINF:-1 group-title="AGENDA", LUXEMBURGO VS ESTONIA 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/491464.m3u8
+#EXTINF:-1 group-title="AGENDA", LIECHTENSTEIN VS AZERBAIYAN 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/491463.m3u8
+#EXTINF:-1 group-title="AGENDA", ESCOCIA VS MACEDONIA DEL NORTE 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/491460.m3u8
+#EXTINF:-1 group-title="AGENDA", PAISES BAJOS VS GRECIA 13:45 PM
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AGENDA", BULGARIA VS ISLANDIA 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/491459.m3u8
+#EXTINF:-1 group-title="AGENDA", ESLOVAQUIA VS ISLAS FEROE 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/491461.m3u8
+#EXTINF:-1 group-title="AGENDA", ANDORRA VS GIBRALTAR 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/491458.m3u8
+#EXTINF:-1 group-title="AGENDA", ESLOVENIA VS SUIZA 13:45 PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SERBIA VS ALEMANIA 13:45 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SERBIA VS ALEMNAIA OPCION 2
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 group-title="AGENDA", SALAMANCA VS CELTA VIGO 2PM
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/5758.m3u8
+#EXTINF:-1 group-title="AGENDA", COLO COLO VS RACING CLUB 4PM
+http://zonacero.lat:8080/live/laura/12345678/491479.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS URUGUAY 5PM
+http:\\186.148.196.67:8900\play\a0ar
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS URUGUAY OPCION 2
+http://177.53.153.207:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS URUGUAY OPCION 3
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", SAINT MARTIN VS EL SALVADOR 5PM
+http://186.33.0.57:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="AGENDA", SAINT MARTIN VS EL SALVADOR OPCION 2
+http://186.33.0.57:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ECUADOR VS COSTA RICA 6PM
+http://186.33.0.57:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ECUADOR VS COSTA RICA OPCION 2
+http://186.33.0.57:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ECUADOR VS COSTA RICA OPCION 3
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS CHILE 6PM
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS CHILE OPCION 2
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS CHILE OPCION 3
+http://38.134.250.110:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="AGENDA", COLOMBIA VS CHILE OPCION 4
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MONTSERRAT VS NICARAGUA 6PM
+https://183.giatvcdn.com/ssh101/ssh101/nicasports/chunks.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PACERS VS KNICKS 6PM
+http://zonacero.lat:8080/live/laura/12345678/491500.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: MAGIC VS BUCKS 6PM
+http://zonacero.lat:8080/live/laura/12345678/491501.m3u8
+#EXTINF:-1 group-title="AGENDA", PERU VS BOLIVIA 7PM
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: HEAT VS CAVALIERS 7PM
+http://zonacero.lat:8080/live/laura/12345678/491533.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: BULLS VS HAWKS 7PM
+http://zonacero.lat:8080/live/laura/12345678/491534.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: PELICANS VS GRIZZLIES 7PM
+http://zonacero.lat:8080/live/laura/12345678/491535.m3u8
+#EXTINF:-1 group-title="AGENDA", INTER BOGOTA VS SANTA FE 19:30 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: ROCKETS VS JAZZ 19:30 PM
+http://zonacero.lat:8080/live/laura/12345678/491550.m3u8
+#EXTINF:-1 group-title="AGENDA", GUATEMALA VS CANADA 8PM
+http://190.61.101.11:7050/play/a0a4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: SPURS VS WARRIORS 20:30 PM
+http://zonacero.lat:8080/live/laura/12345678/491566.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: KINGS VS TRAIL BLAZERS 9PM
+http://zonacero.lat:8080/live/laura/12345678/491568.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: CLIPPERS VS THUNDER 21:30 PM
+http://zonacero.lat:8080/live/laura/12345678/491577.m3u8
