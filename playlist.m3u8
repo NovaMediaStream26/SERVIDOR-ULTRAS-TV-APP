@@ -1,65 +1,79 @@
 #EXTM3U
 
 # --- SECCIÓN: AGENDA ---
-#EXTINF:-1 group-title="AGENDA", TENIS: ATP CARLOS ALCARAZ VS FRANCES TIAFOE 7AM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ISLAS FEROE VS MOLDAVIA 9AM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038431.m3u8
-#EXTINF:-1 group-title="AGENDA", KAZAJISTAN VS ESLOVAQUIA 9AM
-http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="AGENDA", LITUANIA VS LIECHTENSTEIN 11AM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038453.m3u8
-#EXTINF:-1 group-title="AGENDA", ISLANDIA VS LUXEMURGO 11AM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ESTONIA VS BULGARIA 11AM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038449.m3u8
-#EXTINF:-1 group-title="AGENDA", UTC CAJAMARCA VS LOS CHANKAS 12PM
-http://190.108.83.69:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GUYANA VS PUERTO RICO 1PM
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJmOGQ4NzFkN2ExZTgxM2Q4MWEyOWM2YzY3NjMxNmI5NSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzk0ODgxNDMwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.AZLWxqHA45HyUtTdzbgP1W1-YesEgNM1IxEeZC7hurvCke7S9ZOpa4PT3mbDxmwfskmrWpXarzsEcrSyc4isej5bqmKeSL2sW2W2G2HuV6sBmqgGJmB0K_1Y_rPbufDUoassCILlOIw_f0XGKxjHO2qig1Imoyt0ku_g0xo-QzgiqWp7MXFnGwTZn1b0dtSjdzNzY7RN9sthNZXPnSNBQM129PFZQiTpQRmj1CykQ9kfWrHRBVUjePiZp4eOICttik9rg_L3rzlhmH1JUXFiIsOoDNqunwhv_JBM9JB9uirYFXx0jJH3myg5RNfNlseSE8xzU_76KprrjlhOMkYZKg/manifest/stream_t7d2deb48e6141ed53caa17d298cb6c03_r2017134551.m3u8?llhlsHBs=0.5&lps=73a54d2655d6a311&rcu=1794838351827&CMCD=cid%3D%221794838080248%22%2Cmtp%3D79200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2245f8be6a-b1db-4e13-bbfc-b7463e9c4277%22
-#EXTINF:-1 group-title="AGENDA", ALBACETE VS CELTA VIGO II 13:30 PM
-http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/25128.m3u8
-#EXTINF:-1 group-title="AGENDA", TENIS: ATP DANIIL MEDVEDEV VS FLAVIO COBOLLI 13:30 PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GRECIA VS SERBIA 13:45 PM
-http://38.134.250.110:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="AGENDA", MACEDONIA DEL NORTE VS ESLOVENIA 13:45 PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038464.m3u8
-#EXTINF:-1 group-title="AGENDA", ALEMANIA VS PAISES BAJOS 13:45 PM
-http://38.134.250.110:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="AGENDA", ALEMANIA VS PAISES BAJOS OPCION 2
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
-#EXTINF:-1 group-title="AGENDA", SUIZA VS ESCOCIA 13:45 PM
+#EXTINF:-1 group-title="AGENDA", SINGAPUR VS BRASIL 4AM
+http://zonacero.lat:8080/live/laura/12345678/429120.m3u8
+#EXTINF:-1 group-title="AGENDA", JAPON VS PARAGUAY 07:10 AM
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 group-title="AGENDA", RUSIA VS VENEZUELA 10AM
+http://38.134.250.110:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="AGENDA", KUWAIT VS HONDURAS 10:30 AM
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+#EXTINF:-1 group-title="AGENDA", IRLANDA VS KOSOVO 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/492851.m3u8
+#EXTINF:-1 group-title="AGENDA", UCRANIA VS GEORGIA 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/492852.m3u8
+#EXTINF:-1 group-title="AGENDA", BOSNIA HERZEGOVINA VS RUMANIA 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/492845.m3u8
+#EXTINF:-1 group-title="AGENDA", HUNGRIA VS IRLANDA DEL NORTE 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/492848.m3u8
+#EXTINF:-1 group-title="AGENDA", ISRAEL VS AUSTRIA 13:45 PM
+http://zonacero.lat:8080/live/laura/12345678/492849.m3u8
+#EXTINF:-1 group-title="AGENDA", POLONIA VS SUECIA 13:45 PM
 http://38.134.250.110:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="AGENDA", GIBRALTAR VS MALTA 13:45 PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038461.m3u8
-#EXTINF:-1 group-title="AGENDA", DEPORTIVO MOQUEGUA VS ATLETICO GRAU 14:15 PM
-http://190.108.83.69:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="AGENDA", WANDERERS VS JUVENTUD 5PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/804931.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: CAVALIERS VS BULLS 6PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038511.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: CELTICS VS MAGIC 6PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038509.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: WIZARDS VS GRIZZLIES 6PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038512.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: HEAT VS ROCKETS 18:30 PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038514.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: NETS VS 76ERS 18:30 PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038513.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: RANGERS VS CANADIENS 18:30 PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038489.m3u8
-#EXTINF:-1 group-title="AGENDA", CANADA VS GUATEMALA 7PM
-http://190.61.101.11:7050/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="AGENDA", CANADA VS GUATEMALA OPCION 2
-http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", GALES VS PORTUGAL 13:45 PM
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="AGENDA", DINAMARCA VS NORUEGA 13:45 PM
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS COSTA RICA 5PM
+http:\\186.148.196.67:8900\play\a0ar
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS COSTA RICA OPCION 2
+http://177.53.153.207:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS COSTA RICA OPCION 3
+http://186.33.0.57:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS COSTA RICA OPCION 4
+http://186.33.0.57:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS COSTA RICA OPCION 5
+http://31.43.191.142:8080/live/7671768672962/c0d8b95a323e/57560.m3u8
+#EXTINF:-1 group-title="AGENDA", ARGENTINA VS COSTA RICA OPCION 6
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:-1 group-title="AGENDA", CHILE VS COLOMBIA 5PM
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AGENDA", CHILE VS COLOMBIA OPCION 2
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ECUADOR VS BOLIVIA 17:30 PM
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ATLETICO NACIONAL VS ONCE CALDAS 17:30 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", ESTADOS UNIDOS VS HAITI 6PM
+http://186.33.0.57:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: RAPTORS VS KNICKS 18:30 PM
+http://zonacero.lat:8080/live/laura/12345678/492901.m3u8
+#EXTINF:-1 group-title="AGENDA", NHL: BLACKHAWKS VS MAPLE LEAFS 18:30 PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: SPURS VS PISTONS 7PM
+http://zonacero.lat:8080/live/laura/12345678/492911.m3u8
 #EXTINF:-1 group-title="AGENDA", NBA: TIMBERWOLVES VS TRAIL BLAZERS 7PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038515.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: PELICANS VS WARRIORS 7PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038516.m3u8
-#EXTINF:-1 group-title="AGENDA", NFL: RAVENS VS CHARGERS 7PM
-http://38.134.250.110:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AGENDA", NBA: NUGGETS VS SUNS 8PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038517.m3u8
-#EXTINF:-1 group-title="AGENDA", NHL: MAMMOTH VS CANUCKS 20:30 PM
-http://latinostream.xyz/live/USm9Dmft32/AwfRDr5VeB/1038491.m3u8
+http://zonacero.lat:8080/live/laura/12345678/492910.m3u8
+#EXTINF:-1 group-title="AGENDA", EL SALVADOR VS SAINT MARTIN 7PM
+http://zonacero.lat:8080/live/laura/12345678/492909.m3u8
+#EXTINF:-1 group-title="AGENDA", AMERICA CALI VS INTER BOGOTA 19:30 PM
+http://152.231.29.139:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS JAMAICA 20:30 PM
+http://186.33.0.57:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS JAMAICA OPCION 2
+http:\\45.228.234.62:8000\play\a05x\index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS JAMAICA OPCION 3
+http:\\45.228.234.62:8000\play\a008\index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS JAMAICA OPCION 4
+http://179.60.224.196:8000/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="AGENDA", MEXICO VS JAMAICA OPCION 5
+http://186.33.0.57:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NHL: GOLDEN KNIGTH VS STARS 9PM
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="AGENDA", NICARAGUA VS MONTSERRAT 9PM
+https://183.giatvcdn.com/ssh101/ssh101/nicasports/chunks.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: CLIPPERS VS JAZZ 21:30 PM
+http://zonacero.lat:8080/live/laura/12345678/492947.m3u8
+#EXTINF:-1 group-title="AGENDA", NBA: LAKERS VS HRNETS 10PM
+http://zonacero.lat:8080/live/laura/12345678/492949.m3u8
